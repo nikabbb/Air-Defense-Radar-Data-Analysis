@@ -1,0 +1,1001 @@
+Radar Type,Detection Type,Missile Type,Aircraft Type,Drone Type,Threat Level,Altitude,Speed,Distance From Target,Heading,Radar Signature,Detection Status,Target Class
+Long-Range,Hybrid,Ballistic Missile,Fighter Jet,Fixed-Wing,Low,9006.36,506.57,375.83,247.08,0.42,0,None
+Short-Range,Passive,Surface-to-Air Missile,Bombers,Quadcopter,Low,11420.56,337.03,452.21,280.32,0.61,1,Quadcopter
+Short-Range,Active,Cruise Missile,Drones,Quadcopter,Low,13039.72,379.08,412.97,94.49,1.0,1,Drones
+Medium-Range,Hybrid,Cruise Missile,Drones,Hybrid Drone,Low,14624.73,625.56,273.74,247.29,0.53,1,Hybrid Drone
+Long-Range,Active,Cruise Missile,Passenger Aircraft,Hybrid Drone,High,5709.53,1270.01,296.29,15.51,0.39,0,None
+Short-Range,Hybrid,Surface-to-Air Missile,Bombers,Fixed-Wing,High,1797.54,1377.26,343.22,45.61,0.21,1,Surface-to-Air Missile
+Short-Range,Passive,Cruise Missile,Drones,Quadcopter,Low,3076.62,221.27,344.56,245.41,0.07,1,Quadcopter
+Short-Range,Hybrid,Surface-to-Air Missile,Drones,Quadcopter,Low,691.37,1128.34,231.8,275.94,0.52,0,None
+Short-Range,Active,Anti-Air Missile,Helicopter,Hybrid Drone,Medium,10932.6,363.26,199.63,227.81,0.91,1,Anti-Air Missile
+Long-Range,Hybrid,Cruise Missile,Drones,Quadcopter,High,13154.96,1059.37,100.41,207.75,0.03,1,Cruise Missile
+Short-Range,Active,Anti-Air Missile,Fighter Jet,Fixed-Wing,Low,17745.22,712.46,450.7,222.13,0.96,1,Fixed-Wing
+Medium-Range,Passive,Surface-to-Air Missile,Fighter Jet,Quadcopter,High,18604.79,484.5,126.49,155.47,0.38,1,Surface-to-Air Missile
+Short-Range,Passive,Cruise Missile,Helicopter,Quadcopter,Low,6606.36,277.88,270.66,91.18,0.12,1,Helicopter
+Short-Range,Active,Surface-to-Air Missile,Passenger Aircraft,Fixed-Wing,High,12877.68,870.88,182.65,260.44,0.95,1,Surface-to-Air Missile
+Long-Range,Active,Cruise Missile,Bombers,Quadcopter,Low,17150.47,808.36,355.21,342.06,0.05,1,Cruise Missile
+Medium-Range,Active,Ballistic Missile,Bombers,Quadcopter,Medium,4427.25,818.73,433.51,228.24,0.62,1,Quadcopter
+Long-Range,Hybrid,Cruise Missile,Drones,Fixed-Wing,Medium,13833.14,907.26,198.1,216.75,0.82,1,Drones
+Short-Range,Hybrid,Cruise Missile,Bombers,Quadcopter,Medium,14477.01,1256.09,469.02,248.39,0.51,0,None
+Medium-Range,Passive,Anti-Air Missile,Bombers,Fixed-Wing,High,17874.63,895.06,446.84,233.74,0.07,1,Bombers
+Medium-Range,Hybrid,Cruise Missile,Drones,Hybrid Drone,High,6295.23,252.92,325.85,97.2,0.58,1,Drones
+Short-Range,Passive,Cruise Missile,Fighter Jet,Hybrid Drone,Medium,3457.7,461.68,323.41,162.49,0.59,1,Hybrid Drone
+Medium-Range,Passive,Ballistic Missile,Helicopter,Hybrid Drone,High,13703.96,930.01,457.59,188.15,0.34,1,Helicopter
+Long-Range,Active,Anti-Air Missile,Helicopter,Hybrid Drone,Low,8503.51,448.4,424.2,4.18,0.19,1,Helicopter
+Short-Range,Active,Surface-to-Air Missile,Drones,Fixed-Wing,Low,11683.54,1338.11,304.62,51.84,0.41,1,Surface-to-Air Missile
+Medium-Range,Active,Cruise Missile,Passenger Aircraft,Hybrid Drone,Low,4229.99,1009.79,163.44,16.97,0.1,1,Passenger Aircraft
+Medium-Range,Hybrid,Ballistic Missile,Fighter Jet,Fixed-Wing,High,10917.43,1203.19,113.77,307.52,0.51,0,None
+Short-Range,Active,Cruise Missile,Passenger Aircraft,Quadcopter,Medium,12108.73,591.25,486.57,239.75,0.15,0,None
+Long-Range,Hybrid,Surface-to-Air Missile,Fighter Jet,Quadcopter,Low,15865.87,1261.1,323.18,13.9,0.16,0,None
+Short-Range,Hybrid,Surface-to-Air Missile,Passenger Aircraft,Fixed-Wing,Low,15538.11,275.76,231.07,26.38,0.74,0,None
+Medium-Range,Active,Cruise Missile,Helicopter,Quadcopter,Low,16191.07,860.5,111.93,49.25,0.69,1,Cruise Missile
+Medium-Range,Hybrid,Ballistic Missile,Passenger Aircraft,Hybrid Drone,Low,13581.05,718.8,366.26,162.23,0.97,0,None
+Short-Range,Active,Anti-Air Missile,Bombers,Quadcopter,Medium,11097.77,532.6,99.7,7.03,0.72,1,Bombers
+Long-Range,Passive,Anti-Air Missile,Helicopter,Fixed-Wing,Low,9415.26,1022.1,221.76,130.42,0.76,1,Helicopter
+Short-Range,Passive,Surface-to-Air Missile,Fighter Jet,Hybrid Drone,Low,5118.36,1034.65,392.69,253.61,0.57,1,Surface-to-Air Missile
+Long-Range,Hybrid,Ballistic Missile,Bombers,Hybrid Drone,Medium,9993.94,1041.25,203.18,309.0,0.52,1,Hybrid Drone
+Long-Range,Passive,Cruise Missile,Passenger Aircraft,Quadcopter,Low,953.63,1441.3,215.99,151.5,0.96,0,None
+Medium-Range,Hybrid,Surface-to-Air Missile,Bombers,Quadcopter,Low,3218.16,1202.85,136.14,279.47,0.71,1,Quadcopter
+Short-Range,Active,Surface-to-Air Missile,Passenger Aircraft,Quadcopter,Low,3796.25,721.78,221.77,288.86,0.57,1,Surface-to-Air Missile
+Long-Range,Passive,Cruise Missile,Drones,Fixed-Wing,Medium,9844.13,566.45,120.06,173.56,0.52,0,None
+Medium-Range,Passive,Ballistic Missile,Drones,Hybrid Drone,Low,8829.64,485.11,317.27,337.58,0.39,1,Ballistic Missile
+Medium-Range,Active,Cruise Missile,Drones,Quadcopter,Medium,18123.51,1400.15,261.14,79.35,0.76,1,Drones
+Short-Range,Hybrid,Ballistic Missile,Bombers,Hybrid Drone,Low,18239.7,1175.62,77.7,70.6,0.42,0,None
+Long-Range,Passive,Cruise Missile,Fighter Jet,Hybrid Drone,Low,8028.82,1481.99,207.01,59.55,0.43,0,None
+Short-Range,Passive,Anti-Air Missile,Bombers,Quadcopter,Medium,9670.99,469.37,110.45,140.18,0.43,1,Anti-Air Missile
+Medium-Range,Hybrid,Ballistic Missile,Drones,Quadcopter,Low,5380.35,1383.2,150.49,275.9,0.95,1,Ballistic Missile
+Medium-Range,Hybrid,Ballistic Missile,Fighter Jet,Hybrid Drone,Low,7099.97,873.32,112.59,190.36,0.1,1,Ballistic Missile
+Medium-Range,Hybrid,Anti-Air Missile,Drones,Fixed-Wing,High,3541.32,1087.19,86.29,311.8,0.8,1,Anti-Air Missile
+Long-Range,Passive,Cruise Missile,Bombers,Quadcopter,Medium,7401.94,1311.97,473.01,172.4,0.5,1,Cruise Missile
+Long-Range,Passive,Surface-to-Air Missile,Passenger Aircraft,Fixed-Wing,High,4378.39,1202.93,258.92,304.55,0.79,0,None
+Long-Range,Passive,Ballistic Missile,Fighter Jet,Fixed-Wing,Medium,12505.65,420.73,451.53,116.81,0.36,1,Fighter Jet
+Long-Range,Hybrid,Cruise Missile,Passenger Aircraft,Fixed-Wing,Low,17394.49,1049.21,186.32,30.56,0.73,1,Fixed-Wing
+Medium-Range,Active,Anti-Air Missile,Helicopter,Fixed-Wing,Low,12682.72,1237.07,250.31,65.08,0.36,1,Fixed-Wing
+Medium-Range,Hybrid,Cruise Missile,Bombers,Quadcopter,High,18965.23,730.35,112.05,80.14,0.57,1,Bombers
+Short-Range,Hybrid,Anti-Air Missile,Bombers,Fixed-Wing,High,17148.48,314.52,119.02,308.49,0.29,0,None
+Short-Range,Active,Ballistic Missile,Bombers,Fixed-Wing,Low,13981.45,378.36,475.53,0.71,0.15,1,Fixed-Wing
+Short-Range,Hybrid,Ballistic Missile,Drones,Fixed-Wing,High,6902.93,885.6,404.41,235.26,0.74,1,Drones
+Medium-Range,Active,Anti-Air Missile,Fighter Jet,Quadcopter,High,13654.87,884.6,458.69,203.49,0.43,1,Anti-Air Missile
+Short-Range,Active,Ballistic Missile,Fighter Jet,Fixed-Wing,Low,14313.95,1275.19,368.89,230.18,0.24,1,Fixed-Wing
+Short-Range,Active,Anti-Air Missile,Helicopter,Quadcopter,Medium,6889.48,1222.12,351.0,176.11,0.98,1,Quadcopter
+Short-Range,Hybrid,Cruise Missile,Helicopter,Fixed-Wing,High,12692.7,667.52,330.57,3.62,0.85,0,None
+Medium-Range,Passive,Cruise Missile,Drones,Fixed-Wing,High,19813.76,555.55,317.68,313.05,0.76,1,Drones
+Medium-Range,Active,Cruise Missile,Helicopter,Fixed-Wing,High,12133.25,312.11,228.15,201.67,0.25,1,Cruise Missile
+Medium-Range,Hybrid,Surface-to-Air Missile,Bombers,Fixed-Wing,Low,15133.12,714.05,218.37,30.39,0.05,1,Surface-to-Air Missile
+Medium-Range,Hybrid,Cruise Missile,Passenger Aircraft,Hybrid Drone,Medium,18774.1,1061.39,374.62,196.97,0.82,1,Passenger Aircraft
+Long-Range,Hybrid,Anti-Air Missile,Passenger Aircraft,Hybrid Drone,High,9784.7,601.51,200.21,93.29,0.1,1,Hybrid Drone
+Short-Range,Passive,Ballistic Missile,Bombers,Hybrid Drone,Low,16318.23,964.73,57.88,291.98,0.12,1,Ballistic Missile
+Medium-Range,Passive,Surface-to-Air Missile,Helicopter,Hybrid Drone,Low,16337.97,388.91,166.64,332.75,0.45,1,Helicopter
+Long-Range,Passive,Cruise Missile,Drones,Fixed-Wing,Medium,5974.71,940.26,153.8,95.09,0.48,1,Fixed-Wing
+Long-Range,Passive,Anti-Air Missile,Bombers,Fixed-Wing,Low,15197.57,1259.93,210.84,146.05,0.65,1,Fixed-Wing
+Short-Range,Active,Ballistic Missile,Bombers,Fixed-Wing,High,10054.39,1485.38,162.42,46.47,0.99,1,Bombers
+Long-Range,Active,Cruise Missile,Helicopter,Quadcopter,High,11412.97,325.82,89.56,170.0,0.25,1,Helicopter
+Long-Range,Passive,Cruise Missile,Fighter Jet,Fixed-Wing,High,10570.33,1341.7,231.36,104.81,0.98,1,Fixed-Wing
+Long-Range,Hybrid,Anti-Air Missile,Fighter Jet,Quadcopter,High,8946.56,865.3,143.55,265.31,0.07,1,Anti-Air Missile
+Short-Range,Hybrid,Anti-Air Missile,Helicopter,Fixed-Wing,High,16227.2,1498.07,328.83,197.27,0.8,1,Helicopter
+Medium-Range,Passive,Surface-to-Air Missile,Helicopter,Hybrid Drone,Low,9510.55,983.86,236.45,4.96,0.9,1,Hybrid Drone
+Medium-Range,Active,Ballistic Missile,Bombers,Fixed-Wing,Medium,12652.45,283.46,155.32,40.6,0.94,1,Ballistic Missile
+Long-Range,Passive,Cruise Missile,Drones,Quadcopter,Low,11321.69,1392.32,352.29,198.03,0.96,1,Drones
+Long-Range,Passive,Anti-Air Missile,Drones,Quadcopter,Low,19230.95,963.28,124.49,316.97,0.95,1,Anti-Air Missile
+Long-Range,Hybrid,Cruise Missile,Drones,Quadcopter,Medium,2422.6,754.31,411.53,4.01,0.49,1,Quadcopter
+Medium-Range,Active,Cruise Missile,Bombers,Hybrid Drone,Low,9393.7,755.68,50.35,247.55,0.22,0,None
+Medium-Range,Hybrid,Ballistic Missile,Bombers,Quadcopter,Low,15268.79,978.97,160.84,172.02,0.53,1,Bombers
+Medium-Range,Active,Cruise Missile,Passenger Aircraft,Fixed-Wing,Low,11028.92,1231.06,352.35,139.23,0.56,1,Passenger Aircraft
+Long-Range,Hybrid,Ballistic Missile,Helicopter,Quadcopter,Medium,9442.98,760.97,474.26,180.62,0.59,1,Ballistic Missile
+Short-Range,Active,Ballistic Missile,Fighter Jet,Hybrid Drone,High,1828.64,742.04,59.01,48.28,0.83,1,Fighter Jet
+Short-Range,Active,Anti-Air Missile,Helicopter,Fixed-Wing,Low,11665.75,633.81,263.39,64.3,0.83,0,None
+Long-Range,Active,Cruise Missile,Drones,Hybrid Drone,Medium,19484.44,413.67,440.05,103.49,0.23,1,Drones
+Long-Range,Passive,Surface-to-Air Missile,Fighter Jet,Fixed-Wing,Low,15506.1,503.25,71.67,179.73,0.61,1,Surface-to-Air Missile
+Short-Range,Passive,Ballistic Missile,Passenger Aircraft,Quadcopter,Medium,17530.0,1088.51,480.75,128.43,0.39,1,Quadcopter
+Short-Range,Passive,Ballistic Missile,Bombers,Quadcopter,High,18865.8,521.78,488.34,176.64,0.34,1,Ballistic Missile
+Medium-Range,Hybrid,Ballistic Missile,Passenger Aircraft,Quadcopter,High,570.63,567.75,499.5,96.16,0.33,0,None
+Medium-Range,Active,Surface-to-Air Missile,Drones,Hybrid Drone,Medium,16880.85,1074.83,483.93,261.74,0.82,1,Surface-to-Air Missile
+Medium-Range,Active,Surface-to-Air Missile,Passenger Aircraft,Fixed-Wing,Medium,4796.77,694.58,178.7,269.83,0.82,1,Fixed-Wing
+Long-Range,Active,Anti-Air Missile,Fighter Jet,Hybrid Drone,High,9066.24,311.89,170.87,161.34,0.14,1,Hybrid Drone
+Medium-Range,Passive,Ballistic Missile,Helicopter,Hybrid Drone,High,10241.75,1254.37,422.49,252.49,0.2,0,None
+Short-Range,Active,Surface-to-Air Missile,Fighter Jet,Hybrid Drone,High,15183.52,721.38,411.28,126.96,0.28,1,Hybrid Drone
+Medium-Range,Active,Anti-Air Missile,Passenger Aircraft,Fixed-Wing,Medium,1924.7,495.08,223.38,307.31,0.8,1,Anti-Air Missile
+Medium-Range,Hybrid,Surface-to-Air Missile,Passenger Aircraft,Hybrid Drone,High,6252.4,642.42,82.87,55.13,0.56,0,None
+Medium-Range,Hybrid,Surface-to-Air Missile,Bombers,Hybrid Drone,Medium,18570.38,978.25,254.04,26.25,0.57,1,Surface-to-Air Missile
+Short-Range,Active,Ballistic Missile,Passenger Aircraft,Fixed-Wing,Medium,2497.8,537.66,389.69,86.21,0.09,1,Ballistic Missile
+Long-Range,Active,Cruise Missile,Drones,Fixed-Wing,Low,3928.05,878.94,175.35,136.66,0.56,1,Cruise Missile
+Short-Range,Passive,Ballistic Missile,Helicopter,Hybrid Drone,High,16309.08,1277.95,492.87,116.38,0.49,1,Ballistic Missile
+Medium-Range,Hybrid,Anti-Air Missile,Helicopter,Quadcopter,Low,14253.2,791.44,336.95,132.25,0.85,1,Helicopter
+Medium-Range,Active,Cruise Missile,Bombers,Fixed-Wing,High,1127.84,956.09,102.9,35.24,0.59,1,Cruise Missile
+Short-Range,Passive,Cruise Missile,Passenger Aircraft,Fixed-Wing,Medium,14729.5,614.92,56.55,208.9,0.25,1,Cruise Missile
+Medium-Range,Active,Cruise Missile,Bombers,Quadcopter,Low,16738.76,1204.44,174.07,269.87,0.67,1,Bombers
+Short-Range,Hybrid,Anti-Air Missile,Passenger Aircraft,Fixed-Wing,Low,2542.89,918.96,403.56,194.8,0.55,0,None
+Long-Range,Active,Cruise Missile,Helicopter,Hybrid Drone,High,2801.08,648.43,59.23,114.61,0.93,1,Hybrid Drone
+Long-Range,Hybrid,Cruise Missile,Fighter Jet,Hybrid Drone,Low,11076.51,1280.33,247.42,56.46,0.58,1,Fighter Jet
+Long-Range,Active,Anti-Air Missile,Passenger Aircraft,Quadcopter,Low,18081.96,337.56,145.51,255.1,0.02,1,Quadcopter
+Medium-Range,Active,Anti-Air Missile,Helicopter,Hybrid Drone,High,19229.49,1460.17,317.01,245.21,0.49,1,Anti-Air Missile
+Long-Range,Passive,Ballistic Missile,Fighter Jet,Quadcopter,Medium,17727.92,648.67,180.7,83.88,0.68,1,Fighter Jet
+Short-Range,Hybrid,Anti-Air Missile,Fighter Jet,Fixed-Wing,Medium,12713.03,1272.76,425.41,156.02,0.6,1,Anti-Air Missile
+Medium-Range,Hybrid,Anti-Air Missile,Fighter Jet,Fixed-Wing,High,12924.5,1323.41,121.96,236.06,0.25,1,Fighter Jet
+Long-Range,Hybrid,Ballistic Missile,Passenger Aircraft,Fixed-Wing,Medium,14434.94,582.13,81.24,162.03,0.86,1,Passenger Aircraft
+Medium-Range,Passive,Ballistic Missile,Helicopter,Quadcopter,High,777.19,659.64,281.18,137.68,0.57,1,Ballistic Missile
+Medium-Range,Hybrid,Surface-to-Air Missile,Passenger Aircraft,Fixed-Wing,Medium,11404.82,326.18,350.82,214.27,0.45,1,Passenger Aircraft
+Long-Range,Hybrid,Surface-to-Air Missile,Fighter Jet,Fixed-Wing,Medium,19131.27,1079.48,169.03,103.5,0.77,1,Fighter Jet
+Short-Range,Active,Surface-to-Air Missile,Helicopter,Quadcopter,Low,4063.17,996.83,141.85,30.7,0.82,0,None
+Medium-Range,Active,Cruise Missile,Passenger Aircraft,Fixed-Wing,High,7842.55,457.16,410.15,266.27,0.2,1,Fixed-Wing
+Short-Range,Passive,Surface-to-Air Missile,Passenger Aircraft,Hybrid Drone,High,7447.46,673.6,325.82,300.6,0.47,1,Passenger Aircraft
+Long-Range,Hybrid,Ballistic Missile,Drones,Hybrid Drone,Low,12334.23,684.39,290.64,174.77,0.52,1,Hybrid Drone
+Medium-Range,Passive,Anti-Air Missile,Fighter Jet,Hybrid Drone,Low,6172.3,1185.97,151.47,27.19,0.97,1,Anti-Air Missile
+Long-Range,Hybrid,Cruise Missile,Helicopter,Fixed-Wing,Low,3300.31,1193.71,379.46,357.71,0.75,1,Helicopter
+Medium-Range,Active,Cruise Missile,Drones,Hybrid Drone,High,10346.51,385.25,263.1,266.09,0.64,1,Hybrid Drone
+Medium-Range,Active,Ballistic Missile,Bombers,Fixed-Wing,High,9180.95,1029.19,264.63,1.06,0.98,0,None
+Long-Range,Passive,Anti-Air Missile,Helicopter,Quadcopter,Medium,16822.75,748.08,51.11,281.26,0.82,1,Anti-Air Missile
+Short-Range,Active,Cruise Missile,Fighter Jet,Fixed-Wing,Medium,19604.41,1287.45,365.12,337.79,0.44,1,Cruise Missile
+Short-Range,Hybrid,Cruise Missile,Bombers,Quadcopter,Low,16545.12,640.05,399.74,304.54,0.53,1,Cruise Missile
+Long-Range,Active,Anti-Air Missile,Fighter Jet,Hybrid Drone,Medium,15387.74,1072.81,232.16,291.97,0.61,1,Hybrid Drone
+Long-Range,Hybrid,Cruise Missile,Bombers,Fixed-Wing,Medium,13673.28,724.77,97.92,164.9,0.06,1,Bombers
+Short-Range,Hybrid,Cruise Missile,Helicopter,Hybrid Drone,High,19834.01,1130.45,197.0,78.53,0.44,1,Cruise Missile
+Medium-Range,Hybrid,Anti-Air Missile,Bombers,Fixed-Wing,High,13773.33,1326.01,246.17,206.69,0.6,1,Fixed-Wing
+Medium-Range,Active,Anti-Air Missile,Passenger Aircraft,Hybrid Drone,Medium,19221.7,1464.21,166.6,85.63,0.98,0,None
+Long-Range,Hybrid,Surface-to-Air Missile,Fighter Jet,Quadcopter,High,1987.23,1317.86,297.12,228.44,0.68,1,Fighter Jet
+Long-Range,Hybrid,Surface-to-Air Missile,Helicopter,Fixed-Wing,Low,12220.47,1089.68,428.03,2.22,0.98,1,Helicopter
+Long-Range,Passive,Surface-to-Air Missile,Fighter Jet,Fixed-Wing,Low,8218.02,538.16,171.6,191.79,0.08,1,Surface-to-Air Missile
+Long-Range,Passive,Cruise Missile,Helicopter,Hybrid Drone,Medium,13722.3,968.34,357.87,78.25,0.11,1,Helicopter
+Short-Range,Active,Ballistic Missile,Fighter Jet,Fixed-Wing,High,2716.77,1146.19,223.35,74.6,0.18,1,Ballistic Missile
+Medium-Range,Active,Ballistic Missile,Passenger Aircraft,Hybrid Drone,Medium,2881.13,369.61,117.56,179.53,0.94,1,Passenger Aircraft
+Long-Range,Hybrid,Ballistic Missile,Helicopter,Hybrid Drone,High,12666.47,354.32,79.67,313.3,0.23,1,Helicopter
+Medium-Range,Hybrid,Anti-Air Missile,Drones,Hybrid Drone,Low,748.1,988.52,130.45,308.87,0.59,0,None
+Medium-Range,Active,Anti-Air Missile,Fighter Jet,Fixed-Wing,High,5142.18,398.68,368.05,140.6,0.59,1,Fixed-Wing
+Short-Range,Hybrid,Ballistic Missile,Helicopter,Quadcopter,Low,11852.03,801.87,170.44,134.41,0.05,1,Ballistic Missile
+Short-Range,Hybrid,Ballistic Missile,Drones,Hybrid Drone,High,15143.33,1158.7,378.69,150.12,0.52,1,Drones
+Long-Range,Active,Surface-to-Air Missile,Bombers,Quadcopter,Low,3571.02,802.06,312.08,256.33,0.06,1,Quadcopter
+Long-Range,Hybrid,Ballistic Missile,Passenger Aircraft,Quadcopter,Low,13489.39,313.45,178.53,132.56,0.05,1,Ballistic Missile
+Long-Range,Passive,Ballistic Missile,Bombers,Quadcopter,Low,3183.24,1280.2,438.73,324.03,0.48,1,Bombers
+Medium-Range,Hybrid,Cruise Missile,Passenger Aircraft,Hybrid Drone,Medium,15706.1,1006.46,460.98,289.76,0.62,1,Passenger Aircraft
+Short-Range,Active,Anti-Air Missile,Bombers,Fixed-Wing,Low,12347.46,989.76,97.96,145.66,0.24,1,Bombers
+Medium-Range,Active,Anti-Air Missile,Helicopter,Hybrid Drone,Low,4463.2,1170.34,330.71,167.06,0.53,1,Helicopter
+Short-Range,Hybrid,Anti-Air Missile,Fighter Jet,Fixed-Wing,Low,9650.35,891.53,141.6,56.54,0.65,1,Anti-Air Missile
+Long-Range,Active,Anti-Air Missile,Helicopter,Fixed-Wing,Medium,5448.11,1272.49,124.85,56.05,0.55,1,Helicopter
+Short-Range,Passive,Anti-Air Missile,Fighter Jet,Hybrid Drone,Medium,16675.13,438.86,195.1,54.66,0.5,0,None
+Short-Range,Active,Ballistic Missile,Helicopter,Quadcopter,High,8305.32,1443.63,422.95,88.48,0.16,1,Helicopter
+Short-Range,Hybrid,Ballistic Missile,Helicopter,Hybrid Drone,High,14284.0,480.99,402.79,237.42,0.35,1,Helicopter
+Medium-Range,Active,Anti-Air Missile,Passenger Aircraft,Hybrid Drone,Medium,16242.59,954.18,419.86,339.47,0.13,1,Hybrid Drone
+Medium-Range,Active,Cruise Missile,Helicopter,Hybrid Drone,Low,18084.62,645.62,384.5,104.97,0.93,0,None
+Long-Range,Passive,Ballistic Missile,Bombers,Fixed-Wing,Low,3212.19,442.2,366.28,286.79,0.17,1,Bombers
+Medium-Range,Hybrid,Anti-Air Missile,Bombers,Quadcopter,Low,8457.77,1383.72,378.95,346.06,0.99,1,Quadcopter
+Long-Range,Hybrid,Ballistic Missile,Helicopter,Hybrid Drone,Medium,10786.91,1372.09,318.47,36.34,0.63,1,Hybrid Drone
+Medium-Range,Passive,Anti-Air Missile,Passenger Aircraft,Hybrid Drone,Medium,16861.82,612.64,228.72,17.74,0.0,0,None
+Short-Range,Active,Ballistic Missile,Helicopter,Hybrid Drone,High,18081.56,1115.93,78.93,252.98,0.54,1,Helicopter
+Long-Range,Passive,Cruise Missile,Fighter Jet,Fixed-Wing,Low,7344.71,659.04,461.19,120.7,0.43,1,Cruise Missile
+Short-Range,Hybrid,Anti-Air Missile,Fighter Jet,Fixed-Wing,High,925.7,1101.63,171.71,214.59,0.19,1,Fighter Jet
+Long-Range,Hybrid,Anti-Air Missile,Bombers,Quadcopter,Low,10949.87,274.09,292.62,71.5,0.08,0,None
+Short-Range,Passive,Cruise Missile,Passenger Aircraft,Fixed-Wing,High,11634.65,1354.0,322.08,196.66,0.2,1,Passenger Aircraft
+Long-Range,Passive,Cruise Missile,Drones,Fixed-Wing,Medium,19701.54,1235.21,50.08,228.49,0.29,1,Fixed-Wing
+Long-Range,Hybrid,Ballistic Missile,Bombers,Hybrid Drone,Low,5652.02,730.48,223.65,153.19,0.52,1,Hybrid Drone
+Short-Range,Passive,Surface-to-Air Missile,Bombers,Quadcopter,Medium,9229.95,1269.8,491.0,98.99,0.09,1,Bombers
+Short-Range,Active,Surface-to-Air Missile,Passenger Aircraft,Quadcopter,Low,4155.66,620.25,476.64,228.56,0.29,0,None
+Medium-Range,Active,Ballistic Missile,Fighter Jet,Quadcopter,Medium,19584.18,1156.87,321.31,150.47,0.48,1,Ballistic Missile
+Medium-Range,Active,Anti-Air Missile,Drones,Hybrid Drone,Medium,17855.71,644.28,138.95,215.02,0.49,0,None
+Long-Range,Passive,Cruise Missile,Helicopter,Fixed-Wing,Medium,2678.53,607.76,325.43,194.83,0.71,1,Cruise Missile
+Long-Range,Active,Anti-Air Missile,Passenger Aircraft,Fixed-Wing,Medium,7102.53,568.98,85.2,154.79,0.23,1,Passenger Aircraft
+Medium-Range,Active,Surface-to-Air Missile,Bombers,Hybrid Drone,Medium,16832.44,1385.35,392.47,325.16,0.78,0,None
+Short-Range,Passive,Anti-Air Missile,Drones,Fixed-Wing,Medium,8153.46,922.85,173.94,287.37,0.25,0,None
+Short-Range,Passive,Surface-to-Air Missile,Passenger Aircraft,Quadcopter,High,6651.36,1159.42,237.1,317.66,0.73,1,Passenger Aircraft
+Short-Range,Passive,Cruise Missile,Drones,Hybrid Drone,Medium,19787.26,1112.22,225.09,106.43,0.39,0,None
+Short-Range,Passive,Anti-Air Missile,Drones,Hybrid Drone,Low,3295.41,574.25,278.42,165.19,0.76,1,Hybrid Drone
+Short-Range,Passive,Cruise Missile,Drones,Fixed-Wing,Low,13212.84,399.93,422.65,89.84,0.53,1,Fixed-Wing
+Long-Range,Passive,Surface-to-Air Missile,Helicopter,Quadcopter,Low,14274.15,837.39,157.21,64.66,0.99,1,Quadcopter
+Medium-Range,Passive,Anti-Air Missile,Drones,Fixed-Wing,High,13469.03,584.21,496.34,39.65,0.28,1,Fixed-Wing
+Long-Range,Passive,Surface-to-Air Missile,Helicopter,Fixed-Wing,Low,4804.22,792.13,223.22,240.37,0.05,1,Helicopter
+Medium-Range,Active,Surface-to-Air Missile,Drones,Hybrid Drone,High,2754.39,972.22,376.51,333.17,0.92,1,Surface-to-Air Missile
+Short-Range,Hybrid,Ballistic Missile,Passenger Aircraft,Fixed-Wing,High,15273.88,1167.81,129.11,63.58,0.62,1,Ballistic Missile
+Medium-Range,Passive,Anti-Air Missile,Drones,Hybrid Drone,High,19867.12,1231.22,195.93,181.94,0.24,0,None
+Long-Range,Passive,Cruise Missile,Bombers,Fixed-Wing,Low,12553.03,943.54,228.84,349.05,0.95,1,Cruise Missile
+Short-Range,Passive,Anti-Air Missile,Passenger Aircraft,Fixed-Wing,Medium,9287.96,562.53,89.29,214.25,0.03,1,Fixed-Wing
+Short-Range,Hybrid,Anti-Air Missile,Bombers,Hybrid Drone,Medium,19685.94,1336.72,267.6,278.29,0.25,0,None
+Short-Range,Hybrid,Surface-to-Air Missile,Drones,Hybrid Drone,Low,5566.09,1389.34,433.43,349.1,0.68,1,Hybrid Drone
+Long-Range,Active,Ballistic Missile,Bombers,Fixed-Wing,High,4366.09,796.79,426.86,255.8,0.9,1,Bombers
+Long-Range,Active,Surface-to-Air Missile,Bombers,Quadcopter,Medium,3577.34,598.86,245.17,342.02,0.19,1,Quadcopter
+Long-Range,Hybrid,Ballistic Missile,Fighter Jet,Fixed-Wing,Medium,13260.11,735.93,422.61,179.64,1.0,1,Ballistic Missile
+Short-Range,Active,Ballistic Missile,Passenger Aircraft,Fixed-Wing,High,14591.12,276.44,163.42,80.11,0.53,1,Ballistic Missile
+Medium-Range,Active,Surface-to-Air Missile,Helicopter,Fixed-Wing,High,18460.83,1038.66,440.88,111.18,0.12,0,None
+Short-Range,Active,Ballistic Missile,Fighter Jet,Quadcopter,Medium,756.45,934.73,120.84,22.44,0.28,1,Fighter Jet
+Long-Range,Hybrid,Surface-to-Air Missile,Fighter Jet,Hybrid Drone,Medium,15931.86,674.47,356.68,96.75,0.79,1,Surface-to-Air Missile
+Medium-Range,Passive,Anti-Air Missile,Fighter Jet,Fixed-Wing,Medium,7168.08,1499.82,139.56,248.77,0.67,1,Fixed-Wing
+Short-Range,Active,Cruise Missile,Passenger Aircraft,Hybrid Drone,High,3204.09,482.79,101.36,311.66,0.2,1,Hybrid Drone
+Short-Range,Hybrid,Surface-to-Air Missile,Helicopter,Hybrid Drone,Low,15930.79,1219.83,400.13,40.09,0.96,0,None
+Short-Range,Passive,Ballistic Missile,Passenger Aircraft,Fixed-Wing,High,17723.35,760.57,146.55,172.72,0.89,1,Fixed-Wing
+Short-Range,Active,Surface-to-Air Missile,Drones,Hybrid Drone,Medium,13769.54,1081.66,492.07,18.39,0.06,1,Drones
+Medium-Range,Active,Surface-to-Air Missile,Helicopter,Hybrid Drone,Low,10777.89,1135.02,295.83,174.17,0.28,1,Helicopter
+Long-Range,Hybrid,Surface-to-Air Missile,Drones,Quadcopter,Low,9649.28,1273.88,239.63,51.33,0.96,0,None
+Medium-Range,Hybrid,Anti-Air Missile,Passenger Aircraft,Quadcopter,Medium,8376.77,735.83,131.59,225.65,0.18,0,None
+Medium-Range,Hybrid,Anti-Air Missile,Helicopter,Quadcopter,Low,6261.05,871.54,219.34,244.47,0.13,1,Quadcopter
+Long-Range,Hybrid,Anti-Air Missile,Passenger Aircraft,Fixed-Wing,High,18020.53,561.07,98.96,341.94,0.08,1,Fixed-Wing
+Medium-Range,Active,Surface-to-Air Missile,Bombers,Fixed-Wing,Low,15564.92,1395.4,100.05,70.47,0.05,0,None
+Medium-Range,Passive,Anti-Air Missile,Helicopter,Fixed-Wing,High,15589.59,1246.48,470.53,167.23,0.91,0,None
+Short-Range,Active,Surface-to-Air Missile,Fighter Jet,Quadcopter,High,16579.48,1071.54,353.75,192.39,0.28,1,Quadcopter
+Medium-Range,Active,Anti-Air Missile,Fighter Jet,Quadcopter,Low,4281.28,1400.32,73.17,167.23,0.46,1,Fighter Jet
+Long-Range,Active,Surface-to-Air Missile,Passenger Aircraft,Fixed-Wing,Medium,8136.22,645.57,314.26,305.55,0.7,1,Passenger Aircraft
+Long-Range,Passive,Surface-to-Air Missile,Bombers,Hybrid Drone,Low,3967.04,842.26,401.91,48.27,0.11,1,Hybrid Drone
+Short-Range,Hybrid,Anti-Air Missile,Drones,Hybrid Drone,Low,638.32,1359.11,150.29,227.06,0.54,1,Drones
+Long-Range,Hybrid,Anti-Air Missile,Fighter Jet,Fixed-Wing,High,16482.11,879.26,333.22,141.05,0.45,1,Anti-Air Missile
+Short-Range,Active,Surface-to-Air Missile,Drones,Fixed-Wing,Medium,17725.81,768.14,313.96,348.0,0.1,1,Drones
+Short-Range,Passive,Cruise Missile,Drones,Fixed-Wing,High,1685.97,605.97,248.27,69.53,0.63,1,Cruise Missile
+Medium-Range,Hybrid,Ballistic Missile,Bombers,Quadcopter,Low,6299.55,1221.44,248.29,136.66,0.99,1,Quadcopter
+Medium-Range,Passive,Surface-to-Air Missile,Fighter Jet,Hybrid Drone,High,15664.88,1375.8,180.8,154.51,0.22,1,Fighter Jet
+Long-Range,Hybrid,Ballistic Missile,Fighter Jet,Hybrid Drone,Medium,9805.14,1340.85,151.69,4.28,0.23,1,Ballistic Missile
+Medium-Range,Passive,Anti-Air Missile,Helicopter,Quadcopter,Low,11688.76,791.83,197.87,250.91,0.76,1,Quadcopter
+Short-Range,Active,Surface-to-Air Missile,Helicopter,Quadcopter,High,17621.05,1220.27,94.63,95.65,0.5,1,Helicopter
+Long-Range,Active,Ballistic Missile,Fighter Jet,Quadcopter,High,2474.18,558.98,448.32,279.52,0.52,1,Fighter Jet
+Short-Range,Active,Cruise Missile,Fighter Jet,Quadcopter,Low,7497.62,1363.7,381.98,70.24,0.55,1,Quadcopter
+Medium-Range,Active,Cruise Missile,Helicopter,Hybrid Drone,Low,16908.04,233.58,245.66,9.15,0.54,1,Hybrid Drone
+Medium-Range,Hybrid,Cruise Missile,Bombers,Fixed-Wing,High,3388.5,218.47,259.72,101.55,0.68,1,Bombers
+Medium-Range,Passive,Ballistic Missile,Passenger Aircraft,Hybrid Drone,Medium,16488.72,1258.4,147.76,348.04,0.35,0,None
+Short-Range,Hybrid,Ballistic Missile,Helicopter,Quadcopter,Low,9220.8,445.82,391.38,172.0,0.58,0,None
+Short-Range,Active,Cruise Missile,Drones,Hybrid Drone,High,1142.32,1266.36,439.52,157.24,0.47,1,Cruise Missile
+Medium-Range,Active,Cruise Missile,Fighter Jet,Fixed-Wing,High,19673.09,536.84,409.75,155.51,0.73,1,Cruise Missile
+Short-Range,Active,Ballistic Missile,Fighter Jet,Quadcopter,High,16271.14,1000.4,92.17,269.74,0.26,1,Fighter Jet
+Short-Range,Passive,Anti-Air Missile,Fighter Jet,Fixed-Wing,High,16693.33,522.4,281.46,8.91,0.39,1,Anti-Air Missile
+Long-Range,Hybrid,Cruise Missile,Helicopter,Fixed-Wing,High,18835.59,790.32,96.15,300.24,0.73,0,None
+Long-Range,Passive,Anti-Air Missile,Helicopter,Hybrid Drone,Medium,16768.48,1232.34,151.56,86.82,0.88,1,Hybrid Drone
+Long-Range,Passive,Surface-to-Air Missile,Bombers,Quadcopter,Medium,11821.62,287.1,476.2,193.3,0.41,1,Bombers
+Short-Range,Active,Anti-Air Missile,Bombers,Hybrid Drone,High,19210.33,576.4,164.13,19.82,0.56,1,Anti-Air Missile
+Short-Range,Passive,Ballistic Missile,Helicopter,Quadcopter,High,9543.51,1337.33,421.77,70.03,0.3,1,Ballistic Missile
+Long-Range,Active,Cruise Missile,Drones,Hybrid Drone,Low,12945.66,705.47,339.87,105.72,0.01,1,Drones
+Medium-Range,Passive,Ballistic Missile,Helicopter,Fixed-Wing,Medium,18927.0,592.68,357.11,107.14,0.1,0,None
+Long-Range,Hybrid,Cruise Missile,Bombers,Fixed-Wing,Medium,7431.1,1145.75,249.99,346.94,0.17,1,Cruise Missile
+Long-Range,Passive,Anti-Air Missile,Helicopter,Quadcopter,Low,9447.96,555.81,128.27,108.85,0.79,1,Quadcopter
+Long-Range,Passive,Ballistic Missile,Helicopter,Hybrid Drone,Low,1269.9,1475.0,389.41,238.03,0.93,1,Helicopter
+Short-Range,Passive,Ballistic Missile,Helicopter,Hybrid Drone,Medium,17594.93,1285.59,84.73,118.51,0.98,1,Hybrid Drone
+Short-Range,Active,Ballistic Missile,Helicopter,Hybrid Drone,Medium,16204.07,1333.35,225.34,311.74,0.7,1,Ballistic Missile
+Long-Range,Active,Anti-Air Missile,Passenger Aircraft,Hybrid Drone,Medium,6894.71,1486.34,52.49,356.94,0.59,1,Anti-Air Missile
+Short-Range,Passive,Cruise Missile,Helicopter,Fixed-Wing,Low,13222.05,1063.96,83.89,307.07,0.42,1,Fixed-Wing
+Short-Range,Passive,Ballistic Missile,Fighter Jet,Fixed-Wing,High,17317.0,1178.26,88.46,99.45,0.13,1,Fixed-Wing
+Short-Range,Active,Ballistic Missile,Drones,Quadcopter,Low,3792.82,1043.05,162.3,93.43,0.0,1,Drones
+Short-Range,Passive,Surface-to-Air Missile,Passenger Aircraft,Quadcopter,Low,9340.81,1019.95,421.27,257.79,0.35,1,Quadcopter
+Long-Range,Hybrid,Cruise Missile,Bombers,Fixed-Wing,High,5935.82,723.66,399.96,287.95,0.27,0,None
+Long-Range,Active,Ballistic Missile,Helicopter,Fixed-Wing,Medium,1410.9,201.46,106.02,239.86,0.44,1,Helicopter
+Medium-Range,Active,Anti-Air Missile,Bombers,Fixed-Wing,Medium,14488.26,937.18,459.36,0.09,0.42,1,Fixed-Wing
+Long-Range,Hybrid,Ballistic Missile,Helicopter,Hybrid Drone,Low,3455.21,804.11,118.52,256.94,0.68,1,Hybrid Drone
+Medium-Range,Passive,Ballistic Missile,Drones,Hybrid Drone,Low,10348.22,1217.35,182.24,331.76,0.7,1,Hybrid Drone
+Short-Range,Passive,Anti-Air Missile,Helicopter,Quadcopter,Low,15662.73,789.56,382.85,103.25,0.85,1,Helicopter
+Short-Range,Hybrid,Ballistic Missile,Passenger Aircraft,Quadcopter,Low,18411.92,499.24,223.28,11.0,0.05,1,Ballistic Missile
+Medium-Range,Active,Surface-to-Air Missile,Passenger Aircraft,Hybrid Drone,Low,6177.95,916.17,403.09,95.94,0.72,0,None
+Medium-Range,Hybrid,Cruise Missile,Passenger Aircraft,Quadcopter,High,13415.27,1129.45,267.35,32.7,0.7,1,Quadcopter
+Medium-Range,Hybrid,Surface-to-Air Missile,Passenger Aircraft,Fixed-Wing,Medium,4630.16,853.07,67.15,20.71,0.67,0,None
+Long-Range,Hybrid,Surface-to-Air Missile,Fighter Jet,Quadcopter,High,17723.4,270.76,460.98,290.81,0.83,1,Fighter Jet
+Short-Range,Passive,Ballistic Missile,Bombers,Quadcopter,Medium,8492.36,529.53,420.48,159.43,0.54,1,Ballistic Missile
+Short-Range,Hybrid,Surface-to-Air Missile,Passenger Aircraft,Fixed-Wing,Medium,15619.94,497.95,328.65,248.41,0.84,1,Passenger Aircraft
+Long-Range,Hybrid,Anti-Air Missile,Drones,Quadcopter,High,5595.39,543.57,144.0,60.55,0.16,1,Anti-Air Missile
+Short-Range,Passive,Ballistic Missile,Bombers,Hybrid Drone,Medium,3289.38,1410.95,319.1,235.79,0.42,0,None
+Short-Range,Passive,Cruise Missile,Helicopter,Fixed-Wing,Low,9613.7,268.54,182.56,314.68,0.25,1,Fixed-Wing
+Long-Range,Passive,Cruise Missile,Drones,Fixed-Wing,High,3815.84,1418.31,294.56,105.48,0.43,0,None
+Short-Range,Passive,Ballistic Missile,Fighter Jet,Quadcopter,Medium,7788.17,1418.35,469.44,270.72,0.32,1,Fighter Jet
+Medium-Range,Active,Cruise Missile,Drones,Quadcopter,Medium,10481.66,1126.6,110.23,115.73,0.27,0,None
+Medium-Range,Active,Surface-to-Air Missile,Bombers,Quadcopter,Medium,3226.48,954.47,201.57,60.46,0.06,0,None
+Long-Range,Active,Surface-to-Air Missile,Passenger Aircraft,Fixed-Wing,Low,10098.12,986.36,118.69,318.06,0.14,1,Fixed-Wing
+Long-Range,Active,Surface-to-Air Missile,Bombers,Quadcopter,Medium,13940.27,899.77,89.5,4.65,0.71,1,Surface-to-Air Missile
+Short-Range,Passive,Surface-to-Air Missile,Passenger Aircraft,Hybrid Drone,Low,8801.56,725.79,121.49,134.43,0.29,1,Surface-to-Air Missile
+Medium-Range,Passive,Anti-Air Missile,Drones,Hybrid Drone,Medium,11557.99,906.87,423.12,205.15,0.07,1,Anti-Air Missile
+Medium-Range,Hybrid,Anti-Air Missile,Fighter Jet,Hybrid Drone,Medium,19146.18,308.27,372.76,235.27,0.45,1,Hybrid Drone
+Medium-Range,Passive,Ballistic Missile,Fighter Jet,Quadcopter,Low,15637.13,1129.86,416.2,203.04,0.09,1,Quadcopter
+Medium-Range,Hybrid,Anti-Air Missile,Fighter Jet,Hybrid Drone,Low,13928.78,612.43,246.28,226.35,0.79,1,Hybrid Drone
+Long-Range,Active,Ballistic Missile,Fighter Jet,Fixed-Wing,Low,7686.77,806.43,191.31,145.19,0.84,1,Fixed-Wing
+Long-Range,Active,Surface-to-Air Missile,Bombers,Quadcopter,Medium,6381.9,663.89,454.31,266.44,0.17,1,Surface-to-Air Missile
+Long-Range,Hybrid,Ballistic Missile,Bombers,Quadcopter,High,11141.01,236.59,99.8,64.43,0.68,0,None
+Medium-Range,Active,Anti-Air Missile,Passenger Aircraft,Quadcopter,Low,13174.96,1452.32,117.82,20.85,0.89,1,Passenger Aircraft
+Medium-Range,Passive,Surface-to-Air Missile,Drones,Fixed-Wing,Medium,13949.14,1419.2,221.58,322.75,0.94,1,Drones
+Long-Range,Hybrid,Anti-Air Missile,Drones,Hybrid Drone,Low,12391.34,393.94,107.29,232.71,0.01,1,Hybrid Drone
+Short-Range,Hybrid,Cruise Missile,Passenger Aircraft,Hybrid Drone,Low,17431.06,1193.61,72.95,153.45,0.15,1,Cruise Missile
+Short-Range,Passive,Anti-Air Missile,Helicopter,Hybrid Drone,Medium,3982.78,1077.07,157.72,124.71,0.81,0,None
+Medium-Range,Hybrid,Anti-Air Missile,Drones,Quadcopter,High,19850.23,1085.0,236.02,162.07,0.09,1,Drones
+Long-Range,Active,Anti-Air Missile,Fighter Jet,Hybrid Drone,High,7399.84,1272.79,145.99,7.48,0.39,1,Anti-Air Missile
+Short-Range,Passive,Cruise Missile,Drones,Quadcopter,Medium,8932.57,1154.4,137.54,15.02,0.7,1,Drones
+Short-Range,Active,Surface-to-Air Missile,Drones,Fixed-Wing,Medium,3022.02,974.36,302.14,92.77,0.29,0,None
+Medium-Range,Hybrid,Ballistic Missile,Helicopter,Fixed-Wing,Low,10667.01,460.09,489.76,217.89,0.03,1,Fixed-Wing
+Long-Range,Active,Cruise Missile,Drones,Fixed-Wing,Low,4530.73,295.75,470.31,230.15,0.83,1,Cruise Missile
+Medium-Range,Active,Cruise Missile,Bombers,Hybrid Drone,High,908.22,435.2,355.1,108.33,0.51,1,Cruise Missile
+Medium-Range,Hybrid,Ballistic Missile,Helicopter,Quadcopter,Low,10201.46,559.49,351.96,165.38,0.89,1,Ballistic Missile
+Short-Range,Hybrid,Surface-to-Air Missile,Helicopter,Hybrid Drone,Low,16021.81,818.39,90.59,130.89,0.87,1,Surface-to-Air Missile
+Medium-Range,Hybrid,Anti-Air Missile,Passenger Aircraft,Fixed-Wing,Low,5361.62,753.01,247.11,65.04,0.5,1,Passenger Aircraft
+Short-Range,Hybrid,Cruise Missile,Drones,Fixed-Wing,Medium,10290.53,352.34,385.94,37.74,0.65,0,None
+Short-Range,Passive,Cruise Missile,Fighter Jet,Hybrid Drone,High,7073.0,664.59,246.66,20.05,0.1,1,Cruise Missile
+Short-Range,Passive,Ballistic Missile,Drones,Quadcopter,Low,13252.48,563.4,407.07,102.12,0.63,1,Quadcopter
+Long-Range,Hybrid,Cruise Missile,Helicopter,Quadcopter,High,12818.3,1260.62,88.09,10.5,0.55,0,None
+Medium-Range,Hybrid,Cruise Missile,Fighter Jet,Hybrid Drone,Low,14324.49,523.55,145.56,17.74,0.44,1,Hybrid Drone
+Long-Range,Passive,Ballistic Missile,Helicopter,Quadcopter,High,14515.49,1315.08,192.85,47.94,0.19,1,Quadcopter
+Short-Range,Passive,Cruise Missile,Drones,Quadcopter,Medium,13147.54,234.48,248.34,239.53,0.88,1,Drones
+Long-Range,Hybrid,Ballistic Missile,Helicopter,Hybrid Drone,Low,8863.1,687.17,410.59,35.8,1.0,1,Ballistic Missile
+Long-Range,Hybrid,Surface-to-Air Missile,Helicopter,Quadcopter,Low,15492.08,1273.95,159.27,203.5,0.16,1,Quadcopter
+Medium-Range,Passive,Ballistic Missile,Fighter Jet,Quadcopter,Medium,6731.85,888.9,299.22,5.48,0.27,1,Fighter Jet
+Medium-Range,Passive,Cruise Missile,Helicopter,Quadcopter,Medium,759.0,201.08,173.65,51.13,0.04,1,Helicopter
+Medium-Range,Passive,Surface-to-Air Missile,Fighter Jet,Hybrid Drone,Low,1127.38,977.04,378.18,73.25,0.67,1,Surface-to-Air Missile
+Long-Range,Active,Surface-to-Air Missile,Helicopter,Quadcopter,Low,14176.97,1344.93,353.73,92.26,0.65,0,None
+Short-Range,Hybrid,Ballistic Missile,Fighter Jet,Fixed-Wing,High,5902.65,398.26,425.27,351.73,0.09,1,Fighter Jet
+Medium-Range,Hybrid,Surface-to-Air Missile,Fighter Jet,Fixed-Wing,Low,15509.09,415.68,209.14,305.07,0.29,1,Surface-to-Air Missile
+Short-Range,Passive,Cruise Missile,Passenger Aircraft,Fixed-Wing,High,8023.23,445.9,331.61,354.1,0.94,1,Fixed-Wing
+Medium-Range,Passive,Surface-to-Air Missile,Helicopter,Fixed-Wing,Low,808.29,655.49,243.43,19.2,0.69,0,None
+Short-Range,Passive,Cruise Missile,Drones,Quadcopter,Medium,12957.5,1137.1,70.49,79.21,0.01,1,Quadcopter
+Medium-Range,Hybrid,Ballistic Missile,Fighter Jet,Hybrid Drone,Low,10666.98,668.34,203.93,314.05,0.09,1,Fighter Jet
+Short-Range,Active,Ballistic Missile,Drones,Fixed-Wing,Low,7996.82,829.64,365.9,87.96,0.29,1,Fixed-Wing
+Medium-Range,Active,Ballistic Missile,Bombers,Quadcopter,Medium,12911.9,669.67,414.74,35.27,0.1,1,Bombers
+Short-Range,Passive,Ballistic Missile,Fighter Jet,Fixed-Wing,Medium,9632.74,1189.69,467.87,152.77,0.13,1,Fixed-Wing
+Long-Range,Active,Surface-to-Air Missile,Bombers,Quadcopter,High,16206.7,777.17,69.15,4.65,0.51,0,None
+Short-Range,Active,Ballistic Missile,Bombers,Quadcopter,High,845.72,1328.55,436.14,153.52,0.27,1,Bombers
+Long-Range,Active,Ballistic Missile,Fighter Jet,Quadcopter,High,8433.94,1224.46,410.24,239.53,0.31,0,None
+Long-Range,Passive,Anti-Air Missile,Fighter Jet,Fixed-Wing,Low,10282.59,232.2,417.01,304.27,0.21,1,Fighter Jet
+Short-Range,Active,Cruise Missile,Helicopter,Fixed-Wing,Low,5260.22,1283.83,254.28,264.37,0.36,1,Helicopter
+Long-Range,Passive,Ballistic Missile,Fighter Jet,Quadcopter,Low,4001.51,288.24,459.78,335.84,0.72,1,Quadcopter
+Medium-Range,Hybrid,Surface-to-Air Missile,Fighter Jet,Quadcopter,Low,8337.49,1048.3,429.56,163.75,0.38,1,Fighter Jet
+Medium-Range,Active,Surface-to-Air Missile,Passenger Aircraft,Quadcopter,Low,6052.33,517.25,476.65,47.68,0.09,1,Passenger Aircraft
+Long-Range,Passive,Surface-to-Air Missile,Bombers,Quadcopter,Medium,1041.69,961.22,346.09,347.17,0.88,1,Quadcopter
+Short-Range,Passive,Surface-to-Air Missile,Helicopter,Hybrid Drone,Low,11529.97,919.81,336.5,94.18,0.72,1,Hybrid Drone
+Medium-Range,Hybrid,Anti-Air Missile,Drones,Fixed-Wing,High,4075.24,362.61,116.64,8.98,0.13,1,Fixed-Wing
+Long-Range,Active,Anti-Air Missile,Bombers,Quadcopter,Low,19117.02,914.36,206.32,184.02,0.39,1,Anti-Air Missile
+Long-Range,Active,Cruise Missile,Passenger Aircraft,Fixed-Wing,High,7209.16,597.57,111.41,336.19,0.69,1,Cruise Missile
+Short-Range,Hybrid,Anti-Air Missile,Bombers,Hybrid Drone,Medium,7197.15,375.33,124.56,126.01,0.39,1,Anti-Air Missile
+Medium-Range,Passive,Cruise Missile,Passenger Aircraft,Hybrid Drone,High,16098.66,826.84,314.25,29.15,0.75,1,Hybrid Drone
+Long-Range,Active,Ballistic Missile,Passenger Aircraft,Quadcopter,Low,15280.26,1044.42,285.09,225.19,0.43,1,Passenger Aircraft
+Long-Range,Passive,Ballistic Missile,Fighter Jet,Fixed-Wing,Low,11007.23,840.36,167.45,287.04,0.26,1,Fixed-Wing
+Medium-Range,Passive,Cruise Missile,Helicopter,Quadcopter,Low,14704.52,1010.09,135.14,333.95,0.54,1,Helicopter
+Short-Range,Passive,Ballistic Missile,Bombers,Hybrid Drone,High,5348.7,252.88,322.97,295.13,0.85,1,Hybrid Drone
+Short-Range,Passive,Anti-Air Missile,Drones,Fixed-Wing,Medium,16452.23,550.03,144.46,244.26,0.99,1,Anti-Air Missile
+Medium-Range,Active,Ballistic Missile,Helicopter,Fixed-Wing,Low,6071.13,531.3,366.41,142.21,0.79,1,Fixed-Wing
+Long-Range,Passive,Anti-Air Missile,Fighter Jet,Quadcopter,High,15231.43,1114.42,402.83,307.17,0.54,1,Quadcopter
+Short-Range,Hybrid,Anti-Air Missile,Helicopter,Hybrid Drone,Low,6208.28,1304.22,86.95,48.9,0.44,1,Hybrid Drone
+Medium-Range,Passive,Anti-Air Missile,Drones,Fixed-Wing,Medium,9133.52,1431.91,131.49,187.14,0.1,0,None
+Long-Range,Active,Ballistic Missile,Bombers,Fixed-Wing,Medium,3607.72,445.99,104.65,306.8,0.61,1,Bombers
+Long-Range,Passive,Anti-Air Missile,Helicopter,Quadcopter,Low,7423.12,1309.95,497.07,273.1,0.04,1,Quadcopter
+Medium-Range,Hybrid,Anti-Air Missile,Fighter Jet,Quadcopter,Medium,10618.56,1267.95,347.35,349.27,0.53,1,Fighter Jet
+Short-Range,Hybrid,Cruise Missile,Helicopter,Fixed-Wing,High,1657.3,338.04,73.5,170.18,0.91,1,Cruise Missile
+Short-Range,Active,Cruise Missile,Fighter Jet,Fixed-Wing,High,16358.59,1070.89,411.12,327.02,0.22,1,Fighter Jet
+Medium-Range,Passive,Cruise Missile,Helicopter,Fixed-Wing,High,3326.36,1107.54,422.21,10.98,1.0,1,Cruise Missile
+Short-Range,Hybrid,Cruise Missile,Fighter Jet,Quadcopter,Low,17880.25,805.32,486.11,352.58,0.24,0,None
+Medium-Range,Active,Surface-to-Air Missile,Passenger Aircraft,Fixed-Wing,Low,12872.58,1364.42,406.64,232.05,0.96,1,Passenger Aircraft
+Long-Range,Hybrid,Cruise Missile,Helicopter,Hybrid Drone,Low,11081.08,1413.05,337.23,354.44,0.87,0,None
+Long-Range,Hybrid,Ballistic Missile,Fighter Jet,Quadcopter,Low,5788.71,1028.74,190.33,350.16,0.07,1,Quadcopter
+Long-Range,Active,Surface-to-Air Missile,Passenger Aircraft,Hybrid Drone,Medium,777.74,1064.22,370.81,38.45,0.17,1,Passenger Aircraft
+Short-Range,Passive,Surface-to-Air Missile,Helicopter,Hybrid Drone,Medium,12508.3,1236.45,474.02,218.72,0.06,1,Surface-to-Air Missile
+Long-Range,Active,Anti-Air Missile,Bombers,Hybrid Drone,Low,4448.94,1015.24,308.8,217.9,0.15,1,Hybrid Drone
+Short-Range,Passive,Cruise Missile,Passenger Aircraft,Fixed-Wing,High,18037.7,799.36,157.48,359.67,0.69,1,Fixed-Wing
+Short-Range,Passive,Cruise Missile,Passenger Aircraft,Fixed-Wing,High,7515.38,1301.49,364.64,168.13,0.77,0,None
+Long-Range,Active,Anti-Air Missile,Fighter Jet,Fixed-Wing,High,1909.3,1278.78,95.58,218.9,0.13,1,Fighter Jet
+Medium-Range,Hybrid,Surface-to-Air Missile,Passenger Aircraft,Quadcopter,High,19878.6,875.63,349.76,86.88,0.89,1,Quadcopter
+Medium-Range,Active,Cruise Missile,Helicopter,Quadcopter,Low,14248.37,1311.25,221.11,19.03,0.44,0,None
+Medium-Range,Passive,Surface-to-Air Missile,Passenger Aircraft,Hybrid Drone,High,3002.58,389.97,486.98,98.28,0.55,1,Passenger Aircraft
+Medium-Range,Active,Ballistic Missile,Passenger Aircraft,Fixed-Wing,Low,15832.54,573.28,493.1,359.26,0.8,1,Fixed-Wing
+Medium-Range,Active,Cruise Missile,Drones,Fixed-Wing,Medium,17934.96,313.08,98.79,143.1,0.02,1,Cruise Missile
+Long-Range,Hybrid,Ballistic Missile,Passenger Aircraft,Hybrid Drone,Low,5752.38,1193.63,487.4,264.67,0.16,1,Ballistic Missile
+Short-Range,Active,Ballistic Missile,Helicopter,Quadcopter,High,10433.26,1391.43,330.41,266.97,0.92,1,Quadcopter
+Medium-Range,Active,Ballistic Missile,Passenger Aircraft,Quadcopter,Medium,13692.33,730.57,411.28,235.07,0.63,1,Passenger Aircraft
+Long-Range,Active,Surface-to-Air Missile,Passenger Aircraft,Hybrid Drone,High,14049.5,1466.1,397.06,103.41,0.49,1,Hybrid Drone
+Short-Range,Passive,Ballistic Missile,Bombers,Quadcopter,Medium,10510.05,1099.17,230.19,185.19,0.82,1,Quadcopter
+Long-Range,Active,Ballistic Missile,Helicopter,Quadcopter,High,9554.56,625.38,202.92,330.92,0.49,1,Helicopter
+Medium-Range,Active,Anti-Air Missile,Drones,Hybrid Drone,High,15776.71,570.07,164.65,312.15,0.49,1,Anti-Air Missile
+Long-Range,Passive,Surface-to-Air Missile,Helicopter,Hybrid Drone,Low,5557.29,220.17,369.44,255.44,0.14,1,Hybrid Drone
+Long-Range,Hybrid,Anti-Air Missile,Passenger Aircraft,Hybrid Drone,Low,8651.65,268.17,115.58,245.58,0.21,0,None
+Medium-Range,Active,Surface-to-Air Missile,Passenger Aircraft,Quadcopter,Medium,13190.43,207.81,349.65,21.38,0.13,1,Surface-to-Air Missile
+Medium-Range,Active,Cruise Missile,Helicopter,Fixed-Wing,Medium,3876.73,327.08,289.26,96.93,0.55,0,None
+Medium-Range,Hybrid,Cruise Missile,Helicopter,Quadcopter,Medium,15397.73,756.2,421.63,268.29,0.73,1,Cruise Missile
+Short-Range,Hybrid,Surface-to-Air Missile,Passenger Aircraft,Quadcopter,Low,16340.18,1348.46,200.24,255.72,0.94,0,None
+Medium-Range,Passive,Surface-to-Air Missile,Helicopter,Fixed-Wing,Medium,16598.52,1062.57,499.47,0.84,0.26,0,None
+Long-Range,Active,Anti-Air Missile,Fighter Jet,Fixed-Wing,Medium,7101.46,1123.98,97.46,81.14,0.71,1,Anti-Air Missile
+Short-Range,Passive,Surface-to-Air Missile,Fighter Jet,Hybrid Drone,High,10903.62,210.96,98.9,31.98,0.03,1,Fighter Jet
+Long-Range,Hybrid,Ballistic Missile,Passenger Aircraft,Hybrid Drone,High,18753.64,1242.5,217.58,135.53,0.89,1,Hybrid Drone
+Medium-Range,Passive,Surface-to-Air Missile,Bombers,Hybrid Drone,High,1632.58,1257.64,427.01,227.68,0.34,0,None
+Short-Range,Hybrid,Cruise Missile,Helicopter,Hybrid Drone,Medium,626.38,1156.17,333.54,17.95,0.18,1,Helicopter
+Medium-Range,Active,Ballistic Missile,Drones,Fixed-Wing,Medium,12941.44,277.1,295.01,256.98,0.52,1,Fixed-Wing
+Long-Range,Hybrid,Ballistic Missile,Helicopter,Quadcopter,High,1408.83,779.97,53.31,74.06,0.65,1,Ballistic Missile
+Short-Range,Passive,Anti-Air Missile,Passenger Aircraft,Quadcopter,Medium,9298.29,1480.39,431.44,140.94,0.3,1,Quadcopter
+Long-Range,Passive,Cruise Missile,Drones,Fixed-Wing,Medium,16073.76,1390.67,478.35,23.02,0.65,0,None
+Long-Range,Passive,Ballistic Missile,Drones,Quadcopter,Medium,5617.43,560.39,443.95,83.83,0.8,0,None
+Medium-Range,Active,Cruise Missile,Passenger Aircraft,Fixed-Wing,Medium,15600.05,490.43,372.3,40.07,0.19,1,Fixed-Wing
+Long-Range,Active,Anti-Air Missile,Drones,Hybrid Drone,Low,8170.25,386.06,310.63,203.03,0.62,0,None
+Short-Range,Hybrid,Ballistic Missile,Drones,Fixed-Wing,High,18732.87,1492.63,101.43,206.0,0.98,1,Fixed-Wing
+Short-Range,Hybrid,Cruise Missile,Helicopter,Fixed-Wing,High,12124.59,902.73,117.64,69.31,0.85,1,Fixed-Wing
+Short-Range,Passive,Cruise Missile,Helicopter,Fixed-Wing,Low,6975.51,1088.57,256.47,195.66,0.12,1,Helicopter
+Medium-Range,Passive,Ballistic Missile,Drones,Quadcopter,Medium,4027.61,1238.91,87.17,349.61,0.2,1,Ballistic Missile
+Long-Range,Passive,Surface-to-Air Missile,Bombers,Fixed-Wing,Medium,10010.81,1434.45,253.86,23.43,0.36,1,Bombers
+Medium-Range,Hybrid,Cruise Missile,Passenger Aircraft,Fixed-Wing,High,4366.38,431.6,89.11,295.53,0.04,1,Passenger Aircraft
+Short-Range,Hybrid,Ballistic Missile,Drones,Hybrid Drone,Low,930.12,1319.04,164.53,32.76,0.47,1,Drones
+Long-Range,Active,Surface-to-Air Missile,Fighter Jet,Hybrid Drone,Low,11013.01,864.13,65.66,296.08,0.94,0,None
+Medium-Range,Passive,Ballistic Missile,Passenger Aircraft,Hybrid Drone,Medium,7860.9,296.78,116.21,127.63,0.27,0,None
+Short-Range,Passive,Surface-to-Air Missile,Helicopter,Quadcopter,Low,16391.14,393.22,442.77,171.35,0.82,0,None
+Medium-Range,Hybrid,Cruise Missile,Helicopter,Quadcopter,High,8118.39,1248.78,414.18,327.06,0.31,1,Helicopter
+Long-Range,Active,Surface-to-Air Missile,Fighter Jet,Quadcopter,High,10566.1,669.64,260.81,338.9,0.51,1,Surface-to-Air Missile
+Medium-Range,Hybrid,Surface-to-Air Missile,Passenger Aircraft,Hybrid Drone,Low,18457.18,1145.97,487.2,302.1,0.7,1,Surface-to-Air Missile
+Medium-Range,Active,Surface-to-Air Missile,Fighter Jet,Quadcopter,Low,16208.55,580.46,171.08,210.94,0.67,0,None
+Medium-Range,Passive,Anti-Air Missile,Drones,Quadcopter,Medium,6067.72,263.7,188.54,228.65,0.14,1,Quadcopter
+Long-Range,Active,Surface-to-Air Missile,Drones,Quadcopter,Low,10370.38,1086.02,131.53,15.53,0.28,1,Drones
+Short-Range,Hybrid,Cruise Missile,Passenger Aircraft,Fixed-Wing,High,4256.91,1125.7,197.95,180.98,0.18,1,Fixed-Wing
+Short-Range,Passive,Ballistic Missile,Fighter Jet,Quadcopter,High,11009.27,1123.72,438.1,127.69,0.96,0,None
+Medium-Range,Active,Surface-to-Air Missile,Fighter Jet,Quadcopter,Medium,17069.33,1210.27,63.91,299.15,0.33,1,Surface-to-Air Missile
+Short-Range,Passive,Cruise Missile,Helicopter,Fixed-Wing,Medium,7066.03,754.48,431.65,190.81,0.11,1,Fixed-Wing
+Long-Range,Active,Ballistic Missile,Bombers,Quadcopter,High,13708.75,1054.23,86.62,171.39,0.02,1,Ballistic Missile
+Medium-Range,Hybrid,Cruise Missile,Drones,Quadcopter,Low,17639.88,1385.61,279.95,322.27,0.61,1,Quadcopter
+Short-Range,Hybrid,Surface-to-Air Missile,Bombers,Fixed-Wing,Medium,19303.51,1399.77,314.74,319.57,0.49,1,Surface-to-Air Missile
+Medium-Range,Passive,Ballistic Missile,Fighter Jet,Hybrid Drone,High,19587.19,512.6,425.64,9.86,0.36,1,Fighter Jet
+Medium-Range,Active,Ballistic Missile,Fighter Jet,Hybrid Drone,High,16571.57,806.11,278.16,2.43,0.66,1,Hybrid Drone
+Long-Range,Hybrid,Ballistic Missile,Passenger Aircraft,Fixed-Wing,Medium,3335.87,345.93,480.86,111.01,0.36,1,Fixed-Wing
+Short-Range,Hybrid,Anti-Air Missile,Fighter Jet,Quadcopter,Low,8760.95,489.99,378.13,225.57,0.56,1,Anti-Air Missile
+Long-Range,Hybrid,Surface-to-Air Missile,Passenger Aircraft,Quadcopter,Medium,11651.61,417.98,264.55,119.53,0.7,1,Quadcopter
+Short-Range,Passive,Ballistic Missile,Helicopter,Quadcopter,High,17802.77,648.47,118.94,179.97,0.27,1,Ballistic Missile
+Long-Range,Passive,Surface-to-Air Missile,Passenger Aircraft,Fixed-Wing,Low,2780.7,1385.16,128.12,352.03,0.41,1,Fixed-Wing
+Long-Range,Hybrid,Surface-to-Air Missile,Helicopter,Hybrid Drone,Medium,732.49,1172.51,158.97,195.99,0.62,1,Surface-to-Air Missile
+Medium-Range,Hybrid,Cruise Missile,Fighter Jet,Fixed-Wing,Low,10023.67,872.71,425.67,265.47,0.35,1,Fighter Jet
+Long-Range,Hybrid,Anti-Air Missile,Bombers,Quadcopter,Medium,8086.57,1438.25,382.3,193.96,0.66,1,Anti-Air Missile
+Medium-Range,Hybrid,Cruise Missile,Passenger Aircraft,Quadcopter,Medium,13768.44,1476.24,169.89,218.62,0.56,1,Passenger Aircraft
+Short-Range,Passive,Surface-to-Air Missile,Fighter Jet,Fixed-Wing,High,19559.81,1352.76,364.29,165.04,0.59,1,Fighter Jet
+Long-Range,Hybrid,Ballistic Missile,Drones,Quadcopter,Low,9842.66,373.88,219.53,279.59,0.17,0,None
+Short-Range,Active,Surface-to-Air Missile,Fighter Jet,Hybrid Drone,Medium,18323.96,824.01,64.89,232.62,0.29,1,Surface-to-Air Missile
+Long-Range,Active,Cruise Missile,Bombers,Fixed-Wing,Medium,17447.79,532.54,482.83,225.55,0.71,0,None
+Medium-Range,Hybrid,Cruise Missile,Passenger Aircraft,Quadcopter,High,7374.73,452.13,393.05,343.89,1.0,1,Cruise Missile
+Long-Range,Passive,Anti-Air Missile,Bombers,Quadcopter,Low,18752.19,1130.4,415.82,113.81,0.85,1,Anti-Air Missile
+Long-Range,Passive,Anti-Air Missile,Passenger Aircraft,Quadcopter,Low,1956.27,791.82,98.7,172.05,0.05,0,None
+Long-Range,Active,Ballistic Missile,Bombers,Hybrid Drone,High,12541.02,1498.3,473.62,357.59,0.91,1,Hybrid Drone
+Medium-Range,Hybrid,Surface-to-Air Missile,Bombers,Hybrid Drone,High,8373.98,1479.56,237.78,108.9,0.14,1,Hybrid Drone
+Long-Range,Hybrid,Ballistic Missile,Passenger Aircraft,Quadcopter,Medium,764.41,1226.56,455.5,169.69,0.16,1,Ballistic Missile
+Medium-Range,Active,Anti-Air Missile,Helicopter,Hybrid Drone,Low,8336.98,418.2,73.19,258.86,0.53,1,Hybrid Drone
+Medium-Range,Active,Surface-to-Air Missile,Drones,Hybrid Drone,High,16604.86,1381.92,251.43,296.06,0.55,1,Drones
+Medium-Range,Passive,Ballistic Missile,Fighter Jet,Hybrid Drone,Low,13142.56,342.4,77.71,330.92,0.71,1,Fighter Jet
+Short-Range,Hybrid,Ballistic Missile,Fighter Jet,Hybrid Drone,Medium,2003.0,705.39,264.19,130.58,0.62,0,None
+Short-Range,Active,Cruise Missile,Fighter Jet,Hybrid Drone,Low,13202.96,355.19,147.25,323.74,0.93,1,Cruise Missile
+Medium-Range,Hybrid,Cruise Missile,Bombers,Fixed-Wing,Medium,11896.87,854.6,264.56,246.1,0.23,0,None
+Short-Range,Hybrid,Surface-to-Air Missile,Fighter Jet,Quadcopter,Low,3872.44,568.39,241.96,103.34,0.48,1,Quadcopter
+Short-Range,Passive,Cruise Missile,Bombers,Quadcopter,Low,3817.53,792.47,50.44,112.09,0.69,0,None
+Short-Range,Hybrid,Ballistic Missile,Fighter Jet,Fixed-Wing,Low,16128.11,554.62,388.17,223.08,0.6,1,Fighter Jet
+Medium-Range,Passive,Cruise Missile,Bombers,Quadcopter,Medium,10585.9,1192.31,117.24,208.45,0.17,1,Quadcopter
+Short-Range,Active,Surface-to-Air Missile,Fighter Jet,Hybrid Drone,Low,4835.75,748.86,268.64,147.8,0.65,1,Hybrid Drone
+Long-Range,Active,Anti-Air Missile,Bombers,Quadcopter,Medium,16189.69,289.25,122.45,338.19,0.87,0,None
+Long-Range,Hybrid,Anti-Air Missile,Drones,Quadcopter,Low,6624.17,440.24,483.66,338.42,0.88,0,None
+Medium-Range,Passive,Ballistic Missile,Fighter Jet,Fixed-Wing,High,8314.93,1068.35,472.75,184.59,0.53,1,Fixed-Wing
+Medium-Range,Hybrid,Ballistic Missile,Passenger Aircraft,Fixed-Wing,High,16529.04,201.42,396.5,259.49,0.41,0,None
+Short-Range,Passive,Anti-Air Missile,Drones,Fixed-Wing,Medium,16784.9,1382.49,79.66,4.2,0.41,1,Drones
+Medium-Range,Passive,Surface-to-Air Missile,Fighter Jet,Fixed-Wing,Low,15532.92,1083.01,122.48,107.4,0.68,0,None
+Medium-Range,Passive,Ballistic Missile,Drones,Fixed-Wing,Low,2756.59,1337.05,498.12,0.73,0.15,1,Fixed-Wing
+Long-Range,Hybrid,Cruise Missile,Fighter Jet,Fixed-Wing,Low,2265.1,656.34,159.97,357.06,0.97,1,Fixed-Wing
+Medium-Range,Active,Ballistic Missile,Helicopter,Fixed-Wing,Low,17571.16,665.69,369.01,338.52,0.13,0,None
+Long-Range,Hybrid,Ballistic Missile,Drones,Hybrid Drone,High,18698.45,471.01,273.99,333.03,0.13,1,Drones
+Medium-Range,Active,Cruise Missile,Helicopter,Quadcopter,Medium,18419.42,937.64,126.28,177.42,0.06,1,Quadcopter
+Medium-Range,Hybrid,Cruise Missile,Passenger Aircraft,Hybrid Drone,Medium,7369.49,1381.39,468.61,321.59,0.39,1,Passenger Aircraft
+Short-Range,Active,Cruise Missile,Drones,Quadcopter,High,19625.73,1146.66,380.82,197.04,0.83,1,Drones
+Medium-Range,Hybrid,Cruise Missile,Drones,Quadcopter,Medium,13092.92,1414.53,460.81,65.51,0.84,1,Cruise Missile
+Long-Range,Passive,Anti-Air Missile,Drones,Hybrid Drone,Medium,9773.7,1291.06,194.07,140.24,0.19,0,None
+Medium-Range,Passive,Anti-Air Missile,Bombers,Hybrid Drone,Low,8895.58,253.02,145.38,25.15,0.28,1,Hybrid Drone
+Long-Range,Passive,Cruise Missile,Passenger Aircraft,Quadcopter,Medium,8912.75,363.37,464.42,13.14,0.82,1,Cruise Missile
+Medium-Range,Passive,Ballistic Missile,Fighter Jet,Hybrid Drone,Medium,3563.99,235.79,99.46,248.12,0.17,1,Ballistic Missile
+Short-Range,Hybrid,Anti-Air Missile,Bombers,Quadcopter,Low,17760.63,1434.29,304.68,73.59,0.0,1,Quadcopter
+Short-Range,Hybrid,Ballistic Missile,Drones,Quadcopter,Medium,6529.87,1106.23,282.27,339.81,0.27,0,None
+Long-Range,Active,Surface-to-Air Missile,Fighter Jet,Quadcopter,Medium,16805.48,539.01,463.5,116.2,0.7,1,Surface-to-Air Missile
+Long-Range,Hybrid,Ballistic Missile,Fighter Jet,Hybrid Drone,Medium,3051.88,567.84,151.61,260.6,0.92,1,Hybrid Drone
+Short-Range,Active,Surface-to-Air Missile,Bombers,Quadcopter,Medium,14793.41,904.74,382.46,187.96,0.32,0,None
+Medium-Range,Hybrid,Anti-Air Missile,Passenger Aircraft,Quadcopter,High,19579.79,203.81,260.28,349.11,0.9,0,None
+Short-Range,Passive,Anti-Air Missile,Fighter Jet,Hybrid Drone,Medium,13561.52,221.53,156.26,34.95,0.62,1,Hybrid Drone
+Short-Range,Hybrid,Cruise Missile,Drones,Fixed-Wing,High,1887.24,1361.05,335.86,138.54,0.37,1,Drones
+Long-Range,Active,Cruise Missile,Bombers,Hybrid Drone,Medium,13476.38,931.33,233.97,349.45,0.66,1,Hybrid Drone
+Long-Range,Active,Surface-to-Air Missile,Fighter Jet,Quadcopter,Medium,8442.11,260.42,367.09,127.7,0.73,1,Quadcopter
+Medium-Range,Passive,Anti-Air Missile,Drones,Fixed-Wing,Low,9001.9,1188.79,340.45,342.19,0.58,1,Fixed-Wing
+Medium-Range,Passive,Ballistic Missile,Fighter Jet,Fixed-Wing,High,9067.12,215.11,51.84,344.39,0.91,1,Fixed-Wing
+Medium-Range,Passive,Surface-to-Air Missile,Passenger Aircraft,Quadcopter,Medium,3715.15,294.5,194.1,7.21,0.76,1,Surface-to-Air Missile
+Short-Range,Active,Anti-Air Missile,Fighter Jet,Quadcopter,High,12424.31,530.14,496.38,352.37,0.71,1,Anti-Air Missile
+Short-Range,Active,Surface-to-Air Missile,Bombers,Quadcopter,Low,3792.98,633.59,378.1,271.71,0.15,0,None
+Medium-Range,Passive,Cruise Missile,Helicopter,Fixed-Wing,High,5179.59,1362.46,166.92,293.05,0.97,1,Helicopter
+Long-Range,Hybrid,Anti-Air Missile,Drones,Fixed-Wing,Low,17487.35,735.68,272.14,161.97,0.27,1,Drones
+Long-Range,Active,Cruise Missile,Drones,Fixed-Wing,High,5009.5,1165.89,387.45,133.53,0.93,1,Drones
+Long-Range,Hybrid,Surface-to-Air Missile,Bombers,Fixed-Wing,High,3047.76,253.58,436.78,295.46,0.64,0,None
+Long-Range,Hybrid,Cruise Missile,Bombers,Quadcopter,High,18621.06,1420.01,403.12,207.99,0.02,1,Quadcopter
+Short-Range,Active,Cruise Missile,Drones,Fixed-Wing,High,3863.9,453.99,87.73,288.56,0.64,1,Cruise Missile
+Short-Range,Active,Anti-Air Missile,Passenger Aircraft,Quadcopter,Low,9582.8,518.08,183.92,222.54,0.56,1,Anti-Air Missile
+Short-Range,Hybrid,Ballistic Missile,Drones,Fixed-Wing,High,1071.5,923.24,195.63,291.08,0.15,1,Ballistic Missile
+Medium-Range,Hybrid,Cruise Missile,Fighter Jet,Hybrid Drone,Medium,7767.66,1327.23,123.88,350.35,0.05,1,Hybrid Drone
+Short-Range,Active,Cruise Missile,Drones,Hybrid Drone,Low,7212.23,433.74,300.24,76.3,0.58,1,Cruise Missile
+Long-Range,Passive,Surface-to-Air Missile,Passenger Aircraft,Hybrid Drone,Medium,10262.39,898.86,174.23,214.17,0.46,1,Hybrid Drone
+Short-Range,Hybrid,Cruise Missile,Drones,Hybrid Drone,Medium,8223.21,224.05,339.5,354.13,0.91,1,Hybrid Drone
+Short-Range,Active,Cruise Missile,Helicopter,Quadcopter,High,9288.01,1422.69,346.21,351.23,0.34,1,Cruise Missile
+Long-Range,Hybrid,Cruise Missile,Bombers,Fixed-Wing,High,12249.11,753.93,347.26,67.59,0.98,1,Cruise Missile
+Medium-Range,Active,Cruise Missile,Helicopter,Quadcopter,High,14933.61,361.11,437.34,14.27,0.01,1,Quadcopter
+Short-Range,Passive,Anti-Air Missile,Drones,Quadcopter,Medium,7830.02,1055.28,498.99,34.16,0.65,1,Quadcopter
+Medium-Range,Passive,Cruise Missile,Helicopter,Quadcopter,Medium,7297.44,1194.67,201.19,31.24,0.58,0,None
+Long-Range,Active,Anti-Air Missile,Passenger Aircraft,Fixed-Wing,Low,1294.4,610.52,216.16,233.1,0.89,1,Fixed-Wing
+Short-Range,Hybrid,Ballistic Missile,Fighter Jet,Quadcopter,High,10624.62,586.13,446.85,63.11,0.35,1,Fighter Jet
+Medium-Range,Active,Anti-Air Missile,Bombers,Fixed-Wing,Medium,16845.17,1479.87,483.36,315.15,0.4,1,Anti-Air Missile
+Medium-Range,Hybrid,Ballistic Missile,Drones,Hybrid Drone,High,1693.6,1424.17,72.35,72.12,0.1,1,Drones
+Short-Range,Passive,Surface-to-Air Missile,Helicopter,Fixed-Wing,High,14944.15,544.47,125.97,86.36,0.91,1,Surface-to-Air Missile
+Medium-Range,Passive,Cruise Missile,Bombers,Fixed-Wing,High,6077.46,1355.22,212.02,219.31,0.81,1,Cruise Missile
+Short-Range,Passive,Cruise Missile,Passenger Aircraft,Hybrid Drone,High,16285.82,409.81,369.61,85.35,0.52,1,Passenger Aircraft
+Long-Range,Hybrid,Cruise Missile,Passenger Aircraft,Hybrid Drone,High,7817.84,1361.58,477.9,314.28,0.13,1,Cruise Missile
+Short-Range,Passive,Anti-Air Missile,Bombers,Hybrid Drone,Medium,4687.72,1327.25,386.51,289.64,0.45,0,None
+Medium-Range,Hybrid,Ballistic Missile,Fighter Jet,Quadcopter,Medium,9699.94,1050.53,457.49,63.7,0.02,1,Quadcopter
+Medium-Range,Hybrid,Ballistic Missile,Passenger Aircraft,Hybrid Drone,Low,3940.81,682.27,442.69,66.65,0.47,1,Ballistic Missile
+Long-Range,Hybrid,Cruise Missile,Helicopter,Quadcopter,High,6421.55,988.34,67.0,205.33,0.37,0,None
+Short-Range,Hybrid,Surface-to-Air Missile,Helicopter,Hybrid Drone,Low,18383.65,1073.27,358.04,353.67,0.61,1,Helicopter
+Short-Range,Active,Ballistic Missile,Bombers,Fixed-Wing,Low,18059.44,902.19,220.86,220.26,0.3,0,None
+Short-Range,Hybrid,Ballistic Missile,Bombers,Hybrid Drone,Medium,14604.89,640.75,213.61,90.73,0.39,1,Hybrid Drone
+Short-Range,Hybrid,Surface-to-Air Missile,Fighter Jet,Quadcopter,Medium,4831.3,353.5,167.26,320.74,0.82,0,None
+Short-Range,Active,Cruise Missile,Helicopter,Fixed-Wing,High,4520.97,1358.41,350.2,105.09,0.42,1,Cruise Missile
+Medium-Range,Active,Anti-Air Missile,Passenger Aircraft,Fixed-Wing,Medium,2001.55,760.84,194.36,288.25,0.75,1,Passenger Aircraft
+Long-Range,Active,Ballistic Missile,Fighter Jet,Quadcopter,Medium,3093.53,368.05,439.1,251.52,0.62,1,Ballistic Missile
+Medium-Range,Hybrid,Surface-to-Air Missile,Helicopter,Quadcopter,Low,14217.16,846.57,53.21,99.56,0.48,1,Quadcopter
+Medium-Range,Passive,Cruise Missile,Helicopter,Hybrid Drone,Low,17581.31,701.25,101.77,89.63,0.56,1,Helicopter
+Long-Range,Hybrid,Ballistic Missile,Helicopter,Quadcopter,High,11760.44,480.01,297.42,193.11,0.79,0,None
+Short-Range,Passive,Cruise Missile,Helicopter,Fixed-Wing,High,8929.87,797.24,60.85,65.63,0.98,1,Helicopter
+Long-Range,Hybrid,Anti-Air Missile,Bombers,Fixed-Wing,High,10032.86,1139.93,336.61,280.26,0.78,1,Bombers
+Medium-Range,Active,Cruise Missile,Helicopter,Hybrid Drone,High,10268.01,925.28,377.41,153.07,0.81,0,None
+Short-Range,Passive,Anti-Air Missile,Helicopter,Fixed-Wing,Medium,2177.78,1383.82,199.12,185.45,0.59,0,None
+Medium-Range,Hybrid,Ballistic Missile,Helicopter,Fixed-Wing,Medium,13009.5,546.17,50.53,15.6,0.22,1,Helicopter
+Long-Range,Passive,Ballistic Missile,Helicopter,Fixed-Wing,High,18498.34,279.69,217.89,76.18,0.47,1,Fixed-Wing
+Long-Range,Passive,Ballistic Missile,Passenger Aircraft,Hybrid Drone,Low,16677.54,352.14,405.32,198.89,0.39,1,Ballistic Missile
+Short-Range,Passive,Cruise Missile,Helicopter,Quadcopter,Medium,1285.16,816.85,271.53,333.83,0.48,1,Cruise Missile
+Long-Range,Active,Ballistic Missile,Drones,Fixed-Wing,Low,915.84,868.72,163.53,42.46,0.3,1,Drones
+Medium-Range,Hybrid,Surface-to-Air Missile,Helicopter,Quadcopter,High,1348.18,1026.98,131.59,106.93,0.06,0,None
+Long-Range,Hybrid,Surface-to-Air Missile,Helicopter,Hybrid Drone,High,17159.64,476.5,450.6,113.98,0.8,1,Helicopter
+Medium-Range,Passive,Surface-to-Air Missile,Drones,Fixed-Wing,High,3422.72,1001.69,108.92,294.29,0.36,1,Drones
+Long-Range,Hybrid,Ballistic Missile,Fighter Jet,Quadcopter,Low,13803.36,1394.29,223.7,218.11,0.69,1,Ballistic Missile
+Short-Range,Hybrid,Anti-Air Missile,Bombers,Quadcopter,Medium,11505.6,682.77,54.4,293.96,0.99,1,Anti-Air Missile
+Long-Range,Passive,Ballistic Missile,Passenger Aircraft,Hybrid Drone,Low,8558.35,321.34,60.78,311.55,0.02,1,Ballistic Missile
+Long-Range,Hybrid,Cruise Missile,Drones,Quadcopter,High,10298.0,572.3,432.95,0.73,0.6,1,Cruise Missile
+Medium-Range,Hybrid,Cruise Missile,Fighter Jet,Fixed-Wing,Low,4821.8,539.29,337.18,252.81,0.11,1,Fixed-Wing
+Medium-Range,Active,Cruise Missile,Drones,Quadcopter,Medium,10226.81,554.99,430.34,40.91,0.79,0,None
+Medium-Range,Active,Ballistic Missile,Passenger Aircraft,Hybrid Drone,High,8327.56,947.45,310.03,3.41,0.37,0,None
+Long-Range,Hybrid,Cruise Missile,Helicopter,Quadcopter,Low,18618.57,1225.17,61.46,127.9,0.62,1,Helicopter
+Long-Range,Active,Cruise Missile,Bombers,Hybrid Drone,Low,16308.28,1340.65,121.31,117.84,0.04,1,Cruise Missile
+Long-Range,Hybrid,Cruise Missile,Helicopter,Fixed-Wing,Low,3099.89,248.99,406.21,240.45,0.61,1,Cruise Missile
+Medium-Range,Active,Cruise Missile,Drones,Hybrid Drone,Low,12147.57,1461.7,265.32,279.49,0.79,1,Cruise Missile
+Medium-Range,Active,Surface-to-Air Missile,Drones,Hybrid Drone,High,4336.08,533.99,158.39,346.53,0.07,1,Surface-to-Air Missile
+Long-Range,Hybrid,Surface-to-Air Missile,Passenger Aircraft,Quadcopter,High,8333.91,862.07,91.6,29.14,0.11,1,Quadcopter
+Long-Range,Hybrid,Cruise Missile,Drones,Fixed-Wing,High,5631.35,411.93,201.4,183.72,0.83,1,Fixed-Wing
+Medium-Range,Hybrid,Anti-Air Missile,Helicopter,Quadcopter,Medium,2090.34,735.49,72.82,279.59,0.17,1,Anti-Air Missile
+Medium-Range,Active,Surface-to-Air Missile,Fighter Jet,Hybrid Drone,Low,17660.2,382.47,177.42,246.3,0.75,1,Fighter Jet
+Long-Range,Active,Ballistic Missile,Helicopter,Fixed-Wing,Medium,11922.57,1120.63,192.45,341.89,0.45,1,Ballistic Missile
+Short-Range,Passive,Anti-Air Missile,Drones,Fixed-Wing,High,13074.99,386.46,122.84,318.01,0.86,0,None
+Short-Range,Hybrid,Anti-Air Missile,Drones,Hybrid Drone,Medium,2168.9,394.03,216.05,134.44,0.12,1,Anti-Air Missile
+Short-Range,Passive,Surface-to-Air Missile,Passenger Aircraft,Quadcopter,High,552.57,407.52,204.87,77.45,0.54,0,None
+Short-Range,Passive,Anti-Air Missile,Passenger Aircraft,Quadcopter,Low,2414.19,844.92,233.58,20.88,0.52,1,Quadcopter
+Long-Range,Hybrid,Cruise Missile,Passenger Aircraft,Quadcopter,High,8379.45,673.61,293.78,194.92,0.65,1,Quadcopter
+Short-Range,Active,Anti-Air Missile,Passenger Aircraft,Quadcopter,Medium,17236.74,1439.47,406.7,209.42,0.24,1,Passenger Aircraft
+Medium-Range,Hybrid,Cruise Missile,Passenger Aircraft,Quadcopter,Medium,4068.67,1200.75,296.17,331.26,0.94,0,None
+Short-Range,Active,Cruise Missile,Bombers,Hybrid Drone,Medium,19645.55,677.08,247.54,281.04,0.72,1,Bombers
+Long-Range,Passive,Anti-Air Missile,Passenger Aircraft,Fixed-Wing,High,16475.6,870.54,77.63,6.54,0.06,1,Fixed-Wing
+Medium-Range,Passive,Surface-to-Air Missile,Fighter Jet,Hybrid Drone,High,13794.07,804.23,495.68,19.02,0.09,1,Surface-to-Air Missile
+Long-Range,Passive,Ballistic Missile,Bombers,Fixed-Wing,High,8466.95,1330.82,313.01,166.13,0.93,0,None
+Long-Range,Passive,Anti-Air Missile,Fighter Jet,Hybrid Drone,Low,9537.65,1103.35,316.08,258.49,0.71,1,Fighter Jet
+Long-Range,Active,Ballistic Missile,Bombers,Fixed-Wing,Low,3496.7,1399.45,350.88,284.9,0.31,1,Bombers
+Medium-Range,Active,Surface-to-Air Missile,Drones,Hybrid Drone,High,9941.01,858.11,95.96,340.24,0.6,1,Hybrid Drone
+Short-Range,Passive,Surface-to-Air Missile,Drones,Fixed-Wing,Low,11290.49,1019.78,54.54,231.25,0.14,0,None
+Short-Range,Active,Ballistic Missile,Fighter Jet,Fixed-Wing,Medium,8654.39,378.5,125.9,126.6,0.45,0,None
+Long-Range,Hybrid,Anti-Air Missile,Fighter Jet,Fixed-Wing,Low,12373.93,1340.22,251.31,222.75,0.82,1,Fixed-Wing
+Medium-Range,Hybrid,Surface-to-Air Missile,Drones,Hybrid Drone,Medium,14395.38,685.63,144.67,143.88,0.34,1,Drones
+Long-Range,Passive,Surface-to-Air Missile,Drones,Fixed-Wing,Low,1596.02,1337.63,238.36,20.49,0.48,0,None
+Long-Range,Passive,Ballistic Missile,Drones,Quadcopter,Low,10634.76,1270.56,443.78,57.11,0.29,1,Drones
+Long-Range,Active,Surface-to-Air Missile,Helicopter,Hybrid Drone,Low,4813.05,1442.99,195.35,45.85,0.56,1,Helicopter
+Long-Range,Passive,Anti-Air Missile,Bombers,Hybrid Drone,Medium,13138.43,678.92,319.42,317.08,0.14,1,Hybrid Drone
+Long-Range,Hybrid,Cruise Missile,Helicopter,Fixed-Wing,Medium,19603.99,207.21,276.49,167.26,0.9,0,None
+Medium-Range,Passive,Ballistic Missile,Fighter Jet,Hybrid Drone,Medium,15044.94,1059.62,257.61,341.86,0.09,1,Fighter Jet
+Short-Range,Hybrid,Ballistic Missile,Passenger Aircraft,Hybrid Drone,High,15818.66,694.45,284.36,281.71,0.09,1,Passenger Aircraft
+Long-Range,Passive,Ballistic Missile,Drones,Hybrid Drone,High,1647.19,1164.86,422.75,207.95,0.18,1,Ballistic Missile
+Short-Range,Hybrid,Cruise Missile,Drones,Fixed-Wing,High,3339.8,849.38,492.59,258.25,0.5,0,None
+Long-Range,Passive,Surface-to-Air Missile,Bombers,Hybrid Drone,Low,10314.01,935.62,248.25,231.31,0.54,1,Surface-to-Air Missile
+Medium-Range,Passive,Cruise Missile,Fighter Jet,Hybrid Drone,Low,1770.25,202.52,274.79,129.58,0.29,0,None
+Medium-Range,Passive,Surface-to-Air Missile,Drones,Quadcopter,Low,8150.65,816.5,428.72,309.15,0.78,1,Surface-to-Air Missile
+Medium-Range,Hybrid,Surface-to-Air Missile,Drones,Quadcopter,Low,14369.01,814.86,424.51,113.56,0.67,1,Surface-to-Air Missile
+Long-Range,Hybrid,Ballistic Missile,Drones,Quadcopter,Medium,10662.04,296.95,448.81,158.09,0.15,0,None
+Medium-Range,Hybrid,Cruise Missile,Passenger Aircraft,Quadcopter,Medium,8376.71,1469.55,117.16,123.78,0.36,1,Passenger Aircraft
+Long-Range,Passive,Anti-Air Missile,Drones,Quadcopter,Low,13964.68,721.45,223.74,56.2,0.06,1,Anti-Air Missile
+Medium-Range,Active,Cruise Missile,Fighter Jet,Quadcopter,High,8735.16,1432.49,485.47,159.05,0.16,0,None
+Short-Range,Hybrid,Cruise Missile,Bombers,Fixed-Wing,Low,15018.53,1103.86,213.27,277.59,0.59,0,None
+Long-Range,Hybrid,Ballistic Missile,Drones,Fixed-Wing,Low,8180.12,1406.44,96.86,340.48,0.67,1,Fixed-Wing
+Short-Range,Passive,Cruise Missile,Bombers,Quadcopter,Medium,18171.04,1268.16,89.26,116.18,0.01,1,Bombers
+Long-Range,Active,Surface-to-Air Missile,Helicopter,Quadcopter,High,14734.28,1189.14,354.52,236.99,0.81,0,None
+Medium-Range,Passive,Surface-to-Air Missile,Helicopter,Fixed-Wing,High,4526.35,243.56,316.78,35.75,0.37,1,Helicopter
+Medium-Range,Hybrid,Anti-Air Missile,Fighter Jet,Quadcopter,High,12336.7,601.04,351.97,346.08,0.98,1,Fighter Jet
+Long-Range,Active,Anti-Air Missile,Passenger Aircraft,Hybrid Drone,High,19918.44,501.66,221.43,99.74,0.3,1,Hybrid Drone
+Medium-Range,Passive,Cruise Missile,Fighter Jet,Hybrid Drone,Low,12607.46,723.37,105.33,187.75,0.15,1,Fighter Jet
+Medium-Range,Active,Anti-Air Missile,Drones,Quadcopter,Low,8841.19,1223.97,176.34,42.17,0.08,1,Quadcopter
+Short-Range,Passive,Ballistic Missile,Fighter Jet,Quadcopter,Medium,8303.44,1326.4,234.23,122.24,0.05,1,Fighter Jet
+Medium-Range,Passive,Anti-Air Missile,Fighter Jet,Hybrid Drone,Medium,16729.85,539.25,470.73,243.69,0.13,1,Anti-Air Missile
+Long-Range,Hybrid,Anti-Air Missile,Passenger Aircraft,Fixed-Wing,Medium,710.64,535.28,300.47,64.92,0.26,1,Passenger Aircraft
+Short-Range,Passive,Cruise Missile,Fighter Jet,Fixed-Wing,Medium,15159.02,356.53,147.17,75.39,0.96,0,None
+Long-Range,Passive,Ballistic Missile,Fighter Jet,Hybrid Drone,Low,11428.58,374.65,132.7,111.93,0.14,1,Ballistic Missile
+Long-Range,Active,Ballistic Missile,Passenger Aircraft,Quadcopter,Medium,14276.9,944.79,246.92,243.28,0.46,1,Ballistic Missile
+Medium-Range,Passive,Surface-to-Air Missile,Drones,Fixed-Wing,High,1603.54,758.06,495.96,337.91,0.39,1,Surface-to-Air Missile
+Long-Range,Passive,Anti-Air Missile,Fighter Jet,Quadcopter,High,9839.09,1277.89,388.11,195.5,0.13,1,Anti-Air Missile
+Long-Range,Active,Ballistic Missile,Fighter Jet,Quadcopter,Medium,12758.19,303.94,460.46,117.62,0.31,1,Quadcopter
+Long-Range,Passive,Surface-to-Air Missile,Helicopter,Fixed-Wing,Medium,11389.29,1401.12,463.9,65.57,0.79,0,None
+Medium-Range,Passive,Anti-Air Missile,Drones,Hybrid Drone,Medium,13145.26,293.93,242.67,296.13,0.55,0,None
+Long-Range,Hybrid,Surface-to-Air Missile,Fighter Jet,Fixed-Wing,Low,8032.9,1194.84,243.03,74.76,0.45,0,None
+Long-Range,Hybrid,Ballistic Missile,Passenger Aircraft,Hybrid Drone,High,18130.74,1209.65,394.71,95.7,0.26,0,None
+Short-Range,Hybrid,Surface-to-Air Missile,Helicopter,Hybrid Drone,High,6620.5,454.94,176.85,221.73,0.07,1,Hybrid Drone
+Short-Range,Active,Ballistic Missile,Passenger Aircraft,Quadcopter,High,13102.04,341.07,298.52,10.03,0.2,1,Ballistic Missile
+Medium-Range,Passive,Anti-Air Missile,Bombers,Hybrid Drone,Medium,17992.99,1091.6,263.08,181.09,0.31,1,Anti-Air Missile
+Long-Range,Active,Cruise Missile,Drones,Fixed-Wing,High,10898.88,699.79,181.05,143.47,0.91,1,Cruise Missile
+Medium-Range,Hybrid,Surface-to-Air Missile,Helicopter,Quadcopter,Low,2721.29,1054.89,103.49,350.59,0.21,1,Helicopter
+Short-Range,Passive,Anti-Air Missile,Passenger Aircraft,Quadcopter,Low,18682.98,202.04,82.2,193.51,0.17,1,Passenger Aircraft
+Long-Range,Hybrid,Ballistic Missile,Drones,Fixed-Wing,High,10004.17,963.89,422.34,86.6,0.49,1,Drones
+Long-Range,Passive,Cruise Missile,Fighter Jet,Hybrid Drone,Low,17429.86,744.26,354.92,149.24,0.41,1,Cruise Missile
+Short-Range,Hybrid,Ballistic Missile,Helicopter,Fixed-Wing,High,13408.99,813.99,178.49,324.46,0.54,1,Helicopter
+Long-Range,Passive,Ballistic Missile,Drones,Quadcopter,High,6537.03,1305.01,344.19,329.18,0.77,1,Quadcopter
+Short-Range,Passive,Cruise Missile,Bombers,Hybrid Drone,High,5217.32,927.04,357.97,358.57,0.41,1,Bombers
+Long-Range,Active,Cruise Missile,Bombers,Quadcopter,Medium,1323.82,396.79,408.18,204.36,0.12,1,Cruise Missile
+Medium-Range,Passive,Ballistic Missile,Drones,Quadcopter,Medium,9469.92,1090.01,200.96,204.09,0.59,1,Drones
+Short-Range,Hybrid,Anti-Air Missile,Passenger Aircraft,Hybrid Drone,Low,1807.31,566.5,80.75,133.35,0.01,1,Hybrid Drone
+Short-Range,Active,Anti-Air Missile,Drones,Hybrid Drone,Medium,15653.72,1033.85,94.15,38.11,0.97,1,Hybrid Drone
+Short-Range,Active,Cruise Missile,Fighter Jet,Hybrid Drone,High,4159.16,961.49,113.0,278.82,0.07,1,Cruise Missile
+Short-Range,Active,Cruise Missile,Bombers,Hybrid Drone,High,1229.86,897.17,370.7,186.35,0.43,0,None
+Long-Range,Passive,Surface-to-Air Missile,Passenger Aircraft,Hybrid Drone,Medium,14244.37,1110.04,54.83,104.1,0.44,1,Surface-to-Air Missile
+Medium-Range,Hybrid,Surface-to-Air Missile,Drones,Hybrid Drone,Low,2896.41,720.3,251.06,113.35,0.2,1,Surface-to-Air Missile
+Long-Range,Hybrid,Cruise Missile,Helicopter,Fixed-Wing,High,9486.47,1315.39,60.92,8.5,0.26,1,Fixed-Wing
+Long-Range,Passive,Surface-to-Air Missile,Bombers,Quadcopter,Low,1497.15,693.67,83.5,183.74,0.72,0,None
+Long-Range,Passive,Ballistic Missile,Passenger Aircraft,Quadcopter,High,11354.64,609.41,300.12,328.08,0.77,1,Quadcopter
+Short-Range,Active,Ballistic Missile,Passenger Aircraft,Quadcopter,High,7943.22,471.07,476.6,225.65,0.91,1,Ballistic Missile
+Short-Range,Passive,Anti-Air Missile,Drones,Hybrid Drone,Low,5506.63,352.08,194.74,309.55,0.62,0,None
+Short-Range,Active,Anti-Air Missile,Bombers,Quadcopter,High,16205.04,566.65,149.75,123.84,0.58,1,Quadcopter
+Medium-Range,Passive,Cruise Missile,Bombers,Fixed-Wing,Medium,1655.59,1400.05,365.9,94.68,0.64,1,Cruise Missile
+Medium-Range,Active,Cruise Missile,Fighter Jet,Quadcopter,Low,10227.52,408.77,339.74,247.2,0.32,0,None
+Medium-Range,Active,Surface-to-Air Missile,Bombers,Quadcopter,Medium,12318.4,952.1,405.77,26.89,0.08,1,Surface-to-Air Missile
+Medium-Range,Active,Ballistic Missile,Passenger Aircraft,Hybrid Drone,Medium,7692.6,808.01,324.02,5.68,0.31,1,Passenger Aircraft
+Medium-Range,Active,Anti-Air Missile,Drones,Quadcopter,Low,12849.86,631.24,196.61,306.18,0.19,0,None
+Short-Range,Hybrid,Surface-to-Air Missile,Drones,Fixed-Wing,Low,17357.57,295.68,181.25,85.83,0.05,1,Drones
+Long-Range,Active,Cruise Missile,Passenger Aircraft,Fixed-Wing,Medium,11308.61,887.06,494.41,150.1,0.32,0,None
+Short-Range,Hybrid,Anti-Air Missile,Helicopter,Hybrid Drone,Low,7032.23,1240.47,201.12,306.93,0.15,1,Helicopter
+Medium-Range,Hybrid,Surface-to-Air Missile,Passenger Aircraft,Hybrid Drone,High,7651.62,1435.77,407.68,91.7,0.47,1,Surface-to-Air Missile
+Long-Range,Hybrid,Ballistic Missile,Bombers,Quadcopter,Low,10870.24,588.49,181.79,143.91,0.41,0,None
+Short-Range,Passive,Anti-Air Missile,Fighter Jet,Hybrid Drone,Low,15362.23,846.69,192.34,77.03,0.38,1,Hybrid Drone
+Medium-Range,Hybrid,Cruise Missile,Fighter Jet,Fixed-Wing,High,9241.12,451.16,437.32,228.98,0.88,1,Fighter Jet
+Long-Range,Passive,Anti-Air Missile,Bombers,Fixed-Wing,Medium,16892.83,619.96,141.87,248.79,0.53,1,Fixed-Wing
+Medium-Range,Hybrid,Surface-to-Air Missile,Passenger Aircraft,Fixed-Wing,Medium,6833.84,1265.9,452.94,324.3,0.6,1,Passenger Aircraft
+Short-Range,Hybrid,Anti-Air Missile,Drones,Fixed-Wing,Medium,18441.18,733.24,217.71,84.76,0.23,1,Drones
+Short-Range,Passive,Cruise Missile,Passenger Aircraft,Quadcopter,High,13267.71,1370.26,428.0,327.81,0.21,1,Quadcopter
+Short-Range,Hybrid,Surface-to-Air Missile,Fighter Jet,Quadcopter,High,18472.97,230.63,141.97,339.61,0.98,1,Quadcopter
+Medium-Range,Hybrid,Anti-Air Missile,Fighter Jet,Hybrid Drone,Medium,7079.99,1065.85,166.83,65.11,0.13,1,Hybrid Drone
+Medium-Range,Hybrid,Ballistic Missile,Bombers,Hybrid Drone,High,3172.05,402.48,391.24,219.86,0.09,0,None
+Medium-Range,Hybrid,Surface-to-Air Missile,Helicopter,Quadcopter,Low,19842.71,599.39,57.31,1.9,0.5,1,Surface-to-Air Missile
+Short-Range,Active,Anti-Air Missile,Passenger Aircraft,Fixed-Wing,Medium,15490.89,202.69,216.53,117.15,0.04,1,Fixed-Wing
+Medium-Range,Active,Ballistic Missile,Drones,Hybrid Drone,High,16450.33,843.02,86.13,244.46,0.51,1,Hybrid Drone
+Medium-Range,Hybrid,Anti-Air Missile,Bombers,Hybrid Drone,High,12422.37,687.44,174.73,234.89,0.46,1,Bombers
+Short-Range,Passive,Ballistic Missile,Bombers,Quadcopter,High,8866.79,557.67,116.83,131.08,0.73,1,Bombers
+Medium-Range,Active,Ballistic Missile,Bombers,Hybrid Drone,High,11630.38,290.61,489.41,50.38,0.24,1,Ballistic Missile
+Long-Range,Passive,Surface-to-Air Missile,Bombers,Quadcopter,Low,11445.04,892.83,200.61,311.67,0.42,1,Bombers
+Long-Range,Passive,Surface-to-Air Missile,Fighter Jet,Hybrid Drone,High,762.79,970.59,280.49,272.28,0.02,1,Surface-to-Air Missile
+Long-Range,Hybrid,Ballistic Missile,Helicopter,Fixed-Wing,High,845.34,235.13,78.19,4.8,0.68,1,Helicopter
+Medium-Range,Hybrid,Surface-to-Air Missile,Helicopter,Fixed-Wing,Medium,3994.82,995.01,110.17,258.1,0.16,1,Helicopter
+Long-Range,Passive,Surface-to-Air Missile,Fighter Jet,Quadcopter,Low,8152.12,1185.43,178.04,101.51,0.28,1,Surface-to-Air Missile
+Short-Range,Hybrid,Ballistic Missile,Fighter Jet,Hybrid Drone,High,16762.44,1302.17,398.27,272.58,0.93,1,Ballistic Missile
+Short-Range,Active,Surface-to-Air Missile,Fighter Jet,Quadcopter,High,11926.15,1498.75,209.97,357.94,0.77,1,Surface-to-Air Missile
+Long-Range,Active,Anti-Air Missile,Bombers,Fixed-Wing,Medium,934.04,683.27,416.5,70.18,0.93,1,Fixed-Wing
+Short-Range,Hybrid,Surface-to-Air Missile,Fighter Jet,Quadcopter,Medium,13759.57,1410.37,113.93,10.01,0.79,1,Fighter Jet
+Short-Range,Active,Surface-to-Air Missile,Bombers,Hybrid Drone,High,6038.83,811.1,261.7,217.73,0.2,1,Bombers
+Long-Range,Passive,Cruise Missile,Fighter Jet,Hybrid Drone,Medium,6937.3,1236.9,468.04,301.85,0.63,1,Fighter Jet
+Long-Range,Passive,Anti-Air Missile,Bombers,Quadcopter,Low,16940.57,698.01,319.19,41.04,0.85,1,Anti-Air Missile
+Long-Range,Active,Cruise Missile,Bombers,Hybrid Drone,Medium,16241.62,747.35,68.67,9.06,0.4,1,Bombers
+Medium-Range,Active,Ballistic Missile,Bombers,Fixed-Wing,Low,13096.44,342.81,482.17,260.47,0.37,0,None
+Medium-Range,Hybrid,Anti-Air Missile,Passenger Aircraft,Fixed-Wing,High,9686.38,470.06,218.79,336.93,0.94,1,Anti-Air Missile
+Short-Range,Hybrid,Anti-Air Missile,Drones,Hybrid Drone,High,12209.37,695.99,338.73,171.12,0.96,0,None
+Medium-Range,Passive,Cruise Missile,Drones,Fixed-Wing,Low,2826.09,1353.45,468.47,52.66,0.92,1,Fixed-Wing
+Long-Range,Hybrid,Surface-to-Air Missile,Drones,Fixed-Wing,Low,13017.36,1356.14,145.96,223.11,0.32,1,Drones
+Short-Range,Active,Surface-to-Air Missile,Bombers,Fixed-Wing,High,7645.02,1261.24,236.48,44.07,0.38,1,Bombers
+Long-Range,Passive,Anti-Air Missile,Passenger Aircraft,Fixed-Wing,High,10132.28,1243.98,199.17,127.41,0.78,0,None
+Long-Range,Active,Surface-to-Air Missile,Passenger Aircraft,Hybrid Drone,High,10840.47,933.81,211.62,39.38,0.96,1,Passenger Aircraft
+Short-Range,Active,Cruise Missile,Fighter Jet,Hybrid Drone,High,3734.32,810.01,362.57,311.48,0.06,1,Cruise Missile
+Medium-Range,Passive,Anti-Air Missile,Passenger Aircraft,Fixed-Wing,High,2792.61,446.32,435.03,73.27,0.03,1,Anti-Air Missile
+Long-Range,Hybrid,Anti-Air Missile,Passenger Aircraft,Fixed-Wing,Low,3546.43,336.47,387.32,143.6,0.93,1,Anti-Air Missile
+Short-Range,Hybrid,Ballistic Missile,Bombers,Hybrid Drone,Medium,7415.67,272.48,351.39,72.19,0.49,1,Bombers
+Short-Range,Hybrid,Anti-Air Missile,Drones,Hybrid Drone,Medium,1905.69,1126.49,83.19,291.29,0.03,1,Anti-Air Missile
+Medium-Range,Passive,Anti-Air Missile,Fighter Jet,Quadcopter,High,19151.56,755.6,378.12,100.92,0.37,0,None
+Long-Range,Passive,Anti-Air Missile,Helicopter,Quadcopter,Medium,5796.41,203.67,194.56,131.39,0.66,1,Anti-Air Missile
+Short-Range,Active,Cruise Missile,Helicopter,Hybrid Drone,High,962.72,1314.27,410.35,338.75,0.57,1,Helicopter
+Long-Range,Hybrid,Surface-to-Air Missile,Helicopter,Fixed-Wing,High,17280.72,775.92,234.28,179.31,0.57,1,Surface-to-Air Missile
+Short-Range,Active,Cruise Missile,Passenger Aircraft,Fixed-Wing,Low,18079.4,660.03,329.9,7.32,0.74,1,Passenger Aircraft
+Medium-Range,Hybrid,Surface-to-Air Missile,Drones,Quadcopter,Low,11668.84,1197.16,263.16,217.9,0.81,1,Surface-to-Air Missile
+Medium-Range,Passive,Cruise Missile,Drones,Quadcopter,High,16536.68,857.88,402.26,225.79,0.51,1,Cruise Missile
+Long-Range,Active,Cruise Missile,Helicopter,Fixed-Wing,Low,8021.23,717.59,326.07,317.99,0.57,1,Cruise Missile
+Medium-Range,Passive,Cruise Missile,Drones,Hybrid Drone,High,3553.59,1432.99,287.58,213.56,0.27,1,Drones
+Medium-Range,Passive,Anti-Air Missile,Passenger Aircraft,Fixed-Wing,High,15790.67,1485.77,116.32,225.23,0.23,1,Passenger Aircraft
+Long-Range,Passive,Anti-Air Missile,Passenger Aircraft,Hybrid Drone,Medium,18219.41,530.33,386.31,298.44,0.93,1,Anti-Air Missile
+Short-Range,Active,Cruise Missile,Drones,Hybrid Drone,High,18828.05,1013.72,214.72,249.32,0.41,1,Hybrid Drone
+Medium-Range,Hybrid,Anti-Air Missile,Bombers,Hybrid Drone,High,18974.46,462.53,358.3,24.54,0.66,1,Hybrid Drone
+Long-Range,Passive,Surface-to-Air Missile,Bombers,Hybrid Drone,High,13211.47,780.87,359.95,120.38,0.25,1,Hybrid Drone
+Long-Range,Passive,Ballistic Missile,Fighter Jet,Hybrid Drone,Low,19834.98,1331.1,135.06,174.68,0.44,0,None
+Long-Range,Hybrid,Anti-Air Missile,Helicopter,Hybrid Drone,Low,4977.08,641.97,56.43,268.28,0.82,1,Helicopter
+Medium-Range,Hybrid,Surface-to-Air Missile,Bombers,Fixed-Wing,Low,1825.77,332.11,405.41,176.14,0.28,1,Surface-to-Air Missile
+Short-Range,Active,Ballistic Missile,Bombers,Fixed-Wing,Low,8574.35,1038.35,81.73,100.78,0.93,1,Ballistic Missile
+Short-Range,Passive,Anti-Air Missile,Helicopter,Quadcopter,Medium,6569.16,596.06,59.96,31.92,0.18,1,Quadcopter
+Medium-Range,Passive,Cruise Missile,Fighter Jet,Hybrid Drone,High,12486.23,912.56,487.24,168.47,0.12,1,Hybrid Drone
+Long-Range,Hybrid,Ballistic Missile,Passenger Aircraft,Fixed-Wing,Medium,15808.95,1128.09,408.08,345.75,0.87,1,Ballistic Missile
+Short-Range,Active,Anti-Air Missile,Passenger Aircraft,Quadcopter,High,12346.92,254.31,302.96,259.45,0.05,1,Quadcopter
+Short-Range,Hybrid,Cruise Missile,Passenger Aircraft,Fixed-Wing,High,1298.82,872.35,292.33,358.87,0.86,1,Passenger Aircraft
+Short-Range,Active,Anti-Air Missile,Drones,Fixed-Wing,Low,8556.09,1328.38,344.58,110.09,0.2,0,None
+Long-Range,Active,Anti-Air Missile,Passenger Aircraft,Hybrid Drone,Medium,11611.99,773.51,293.39,38.11,0.26,1,Passenger Aircraft
+Medium-Range,Hybrid,Cruise Missile,Passenger Aircraft,Fixed-Wing,Low,1095.02,807.62,414.48,251.22,0.24,1,Passenger Aircraft
+Medium-Range,Active,Cruise Missile,Passenger Aircraft,Fixed-Wing,Low,10394.33,705.81,492.13,206.89,0.9,0,None
+Short-Range,Active,Ballistic Missile,Fighter Jet,Fixed-Wing,Low,10169.7,477.57,106.37,316.15,0.88,1,Fighter Jet
+Short-Range,Active,Cruise Missile,Fighter Jet,Quadcopter,Medium,16806.5,342.46,339.5,223.39,0.55,1,Quadcopter
+Medium-Range,Hybrid,Anti-Air Missile,Fighter Jet,Hybrid Drone,High,3406.12,1051.73,140.43,280.88,0.25,1,Hybrid Drone
+Short-Range,Active,Surface-to-Air Missile,Passenger Aircraft,Quadcopter,High,19950.64,889.68,400.08,277.18,0.59,1,Quadcopter
+Medium-Range,Passive,Anti-Air Missile,Bombers,Fixed-Wing,Medium,1303.6,741.58,210.27,223.11,0.9,1,Anti-Air Missile
+Long-Range,Active,Surface-to-Air Missile,Fighter Jet,Quadcopter,Medium,18364.66,258.32,487.02,54.18,0.72,0,None
+Medium-Range,Passive,Ballistic Missile,Helicopter,Quadcopter,Medium,16340.36,1065.34,468.99,54.53,0.47,0,None
+Short-Range,Active,Surface-to-Air Missile,Helicopter,Hybrid Drone,Medium,2362.07,442.78,480.99,106.28,0.17,1,Hybrid Drone
+Medium-Range,Passive,Ballistic Missile,Fighter Jet,Hybrid Drone,Medium,14122.72,774.76,342.05,218.74,0.35,1,Ballistic Missile
+Short-Range,Passive,Surface-to-Air Missile,Fighter Jet,Quadcopter,Low,4877.85,892.86,495.16,84.1,0.73,1,Fighter Jet
+Long-Range,Active,Cruise Missile,Passenger Aircraft,Fixed-Wing,Low,17616.89,1142.11,235.37,1.85,0.03,1,Passenger Aircraft
+Short-Range,Hybrid,Cruise Missile,Passenger Aircraft,Hybrid Drone,Medium,10731.71,390.43,105.2,288.31,0.6,1,Hybrid Drone
+Short-Range,Passive,Ballistic Missile,Bombers,Hybrid Drone,High,14023.56,210.48,224.46,329.94,0.97,0,None
+Long-Range,Hybrid,Anti-Air Missile,Drones,Hybrid Drone,Low,8174.47,1229.74,202.29,56.73,0.38,1,Drones
+Long-Range,Passive,Surface-to-Air Missile,Bombers,Hybrid Drone,Low,10844.51,676.7,440.78,1.49,0.29,1,Hybrid Drone
+Medium-Range,Hybrid,Surface-to-Air Missile,Helicopter,Fixed-Wing,Medium,8218.57,484.01,488.44,280.85,0.86,0,None
+Long-Range,Hybrid,Ballistic Missile,Fighter Jet,Quadcopter,High,13294.45,1093.59,353.37,52.2,0.97,0,None
+Long-Range,Hybrid,Ballistic Missile,Helicopter,Hybrid Drone,Low,16152.37,319.53,267.62,337.01,0.28,1,Ballistic Missile
+Long-Range,Passive,Ballistic Missile,Fighter Jet,Hybrid Drone,High,6924.59,670.38,397.92,337.69,0.56,1,Hybrid Drone
+Long-Range,Passive,Cruise Missile,Bombers,Quadcopter,Low,6246.1,531.1,74.0,16.22,0.92,1,Cruise Missile
+Medium-Range,Hybrid,Ballistic Missile,Fighter Jet,Hybrid Drone,High,10834.52,949.0,259.87,177.19,0.85,1,Hybrid Drone
+Long-Range,Hybrid,Surface-to-Air Missile,Bombers,Hybrid Drone,Low,7039.51,297.21,270.85,312.57,0.05,0,None
+Medium-Range,Hybrid,Anti-Air Missile,Helicopter,Quadcopter,Medium,19109.86,636.17,269.16,89.18,1.0,1,Anti-Air Missile
+Short-Range,Hybrid,Anti-Air Missile,Passenger Aircraft,Hybrid Drone,High,14749.52,296.52,141.49,256.57,0.63,1,Hybrid Drone
+Long-Range,Active,Anti-Air Missile,Drones,Quadcopter,Medium,2321.74,1430.81,396.7,251.21,0.3,1,Anti-Air Missile
+Short-Range,Active,Anti-Air Missile,Passenger Aircraft,Quadcopter,High,704.47,351.96,52.74,214.31,0.28,1,Quadcopter
+Medium-Range,Passive,Anti-Air Missile,Drones,Quadcopter,Low,1764.88,327.7,130.96,282.72,0.27,0,None
+Long-Range,Hybrid,Surface-to-Air Missile,Fighter Jet,Fixed-Wing,High,9704.88,871.53,378.04,267.23,0.67,0,None
+Long-Range,Passive,Ballistic Missile,Passenger Aircraft,Hybrid Drone,Medium,13460.01,328.04,391.48,249.85,0.31,1,Ballistic Missile
+Short-Range,Active,Cruise Missile,Fighter Jet,Fixed-Wing,Low,2788.86,841.6,105.23,219.47,0.95,1,Cruise Missile
+Long-Range,Hybrid,Anti-Air Missile,Fighter Jet,Hybrid Drone,Low,13100.84,649.16,79.01,17.48,0.5,1,Hybrid Drone
+Long-Range,Hybrid,Surface-to-Air Missile,Drones,Quadcopter,High,15479.25,835.92,309.77,196.01,0.8,1,Drones
+Medium-Range,Active,Anti-Air Missile,Helicopter,Hybrid Drone,Medium,19031.51,1253.03,421.09,157.22,0.22,0,None
+Medium-Range,Hybrid,Anti-Air Missile,Bombers,Hybrid Drone,Medium,2658.19,873.08,129.66,106.2,0.79,1,Hybrid Drone
+Long-Range,Passive,Cruise Missile,Bombers,Fixed-Wing,Low,7670.68,490.75,177.45,201.72,0.26,1,Bombers
+Medium-Range,Active,Anti-Air Missile,Passenger Aircraft,Hybrid Drone,Low,18688.22,1139.15,339.36,254.97,0.31,1,Passenger Aircraft
+Medium-Range,Hybrid,Surface-to-Air Missile,Passenger Aircraft,Fixed-Wing,Medium,1925.38,1495.37,108.56,150.68,0.19,0,None
+Medium-Range,Hybrid,Ballistic Missile,Bombers,Hybrid Drone,Medium,15893.18,258.68,422.46,84.71,0.72,1,Bombers
+Medium-Range,Active,Cruise Missile,Bombers,Hybrid Drone,Medium,6652.67,729.71,167.18,63.19,0.95,1,Hybrid Drone
+Long-Range,Active,Cruise Missile,Drones,Fixed-Wing,High,16731.59,640.11,396.88,319.54,0.79,1,Drones
+Long-Range,Active,Ballistic Missile,Passenger Aircraft,Hybrid Drone,Low,14901.88,1088.8,381.46,176.8,0.76,1,Hybrid Drone
+Long-Range,Active,Surface-to-Air Missile,Fighter Jet,Quadcopter,Medium,16910.04,255.12,65.55,117.14,0.86,1,Quadcopter
+Medium-Range,Passive,Cruise Missile,Drones,Hybrid Drone,Medium,7806.14,1444.44,366.22,24.12,0.02,1,Hybrid Drone
+Medium-Range,Active,Surface-to-Air Missile,Fighter Jet,Quadcopter,Low,13649.38,945.94,203.26,223.97,0.86,1,Quadcopter
+Medium-Range,Hybrid,Surface-to-Air Missile,Passenger Aircraft,Quadcopter,Low,11373.36,392.36,270.29,15.32,0.58,1,Passenger Aircraft
+Long-Range,Passive,Ballistic Missile,Bombers,Fixed-Wing,Medium,13931.5,241.14,166.53,7.67,0.3,1,Bombers
+Short-Range,Passive,Anti-Air Missile,Helicopter,Fixed-Wing,High,3264.51,936.96,149.12,168.03,0.01,0,None
+Short-Range,Hybrid,Surface-to-Air Missile,Drones,Hybrid Drone,High,11252.74,912.82,368.43,78.94,0.2,0,None
+Short-Range,Active,Surface-to-Air Missile,Passenger Aircraft,Fixed-Wing,High,15815.04,1451.83,387.21,42.84,0.94,1,Fixed-Wing
+Medium-Range,Passive,Surface-to-Air Missile,Bombers,Fixed-Wing,High,6665.08,910.12,370.54,94.69,0.16,1,Fixed-Wing
+Short-Range,Hybrid,Cruise Missile,Fighter Jet,Quadcopter,High,5017.49,1158.97,308.21,349.54,0.77,1,Fighter Jet
+Long-Range,Hybrid,Anti-Air Missile,Helicopter,Fixed-Wing,Medium,15859.09,1166.45,65.29,140.28,0.45,0,None
+Long-Range,Passive,Cruise Missile,Passenger Aircraft,Hybrid Drone,High,5978.27,509.83,490.55,101.09,0.49,1,Cruise Missile
+Long-Range,Active,Ballistic Missile,Bombers,Hybrid Drone,Low,1779.27,943.82,290.82,327.8,0.89,1,Bombers
+Short-Range,Active,Ballistic Missile,Passenger Aircraft,Fixed-Wing,High,8203.26,1006.86,351.38,171.55,0.53,0,None
+Short-Range,Passive,Surface-to-Air Missile,Passenger Aircraft,Fixed-Wing,Low,13389.12,675.63,64.97,35.53,0.97,1,Fixed-Wing
+Medium-Range,Passive,Ballistic Missile,Bombers,Quadcopter,Low,19114.46,1110.94,116.37,235.84,1.0,0,None
+Long-Range,Passive,Cruise Missile,Fighter Jet,Fixed-Wing,High,15996.88,1115.84,427.75,109.72,0.45,0,None
+Medium-Range,Hybrid,Anti-Air Missile,Drones,Quadcopter,Low,7907.32,724.41,434.04,157.84,0.85,1,Anti-Air Missile
+Medium-Range,Passive,Ballistic Missile,Bombers,Hybrid Drone,High,18151.27,370.85,418.03,335.79,0.65,1,Hybrid Drone
+Medium-Range,Hybrid,Ballistic Missile,Fighter Jet,Hybrid Drone,High,4863.36,767.19,124.32,112.36,0.8,1,Fighter Jet
+Short-Range,Active,Cruise Missile,Fighter Jet,Fixed-Wing,Low,13692.44,620.77,194.56,265.1,0.9,1,Fighter Jet
+Medium-Range,Passive,Ballistic Missile,Passenger Aircraft,Hybrid Drone,Low,2801.12,1005.63,492.92,353.8,0.88,1,Ballistic Missile
+Short-Range,Passive,Anti-Air Missile,Fighter Jet,Fixed-Wing,High,2354.77,218.51,366.38,299.22,0.16,1,Fighter Jet
+Short-Range,Hybrid,Surface-to-Air Missile,Bombers,Quadcopter,Low,19195.61,667.05,378.63,15.99,0.54,1,Quadcopter
+Short-Range,Passive,Cruise Missile,Helicopter,Quadcopter,Low,14647.43,301.91,209.0,238.17,0.75,1,Quadcopter
+Short-Range,Passive,Surface-to-Air Missile,Drones,Fixed-Wing,Medium,2632.88,1353.87,377.43,243.06,0.02,1,Drones
+Medium-Range,Active,Ballistic Missile,Bombers,Quadcopter,High,954.83,1424.0,119.16,130.75,0.32,0,None
+Short-Range,Passive,Cruise Missile,Fighter Jet,Quadcopter,High,15170.63,741.0,230.81,206.83,0.14,1,Quadcopter
+Short-Range,Active,Surface-to-Air Missile,Bombers,Hybrid Drone,Medium,10757.37,836.33,188.08,356.13,0.91,1,Bombers
+Long-Range,Passive,Surface-to-Air Missile,Drones,Quadcopter,Low,8722.45,1280.26,333.37,80.85,0.51,1,Quadcopter
+Short-Range,Active,Anti-Air Missile,Helicopter,Fixed-Wing,Medium,9273.47,840.35,133.76,66.89,0.7,1,Fixed-Wing
+Short-Range,Passive,Ballistic Missile,Fighter Jet,Fixed-Wing,High,10816.44,1376.95,311.93,189.68,0.07,0,None
+Long-Range,Hybrid,Ballistic Missile,Passenger Aircraft,Quadcopter,Medium,6129.86,822.32,276.78,207.44,0.61,1,Passenger Aircraft
+Short-Range,Hybrid,Cruise Missile,Helicopter,Fixed-Wing,Medium,19751.37,819.33,381.07,131.59,0.86,1,Cruise Missile
+Long-Range,Active,Ballistic Missile,Fighter Jet,Hybrid Drone,Medium,14427.66,237.98,303.52,15.56,0.71,1,Ballistic Missile
+Long-Range,Hybrid,Anti-Air Missile,Drones,Fixed-Wing,High,8597.73,1397.01,434.17,32.31,0.95,0,None
+Long-Range,Hybrid,Cruise Missile,Drones,Hybrid Drone,High,7624.87,435.27,136.76,32.91,0.45,1,Hybrid Drone
+Long-Range,Passive,Surface-to-Air Missile,Drones,Quadcopter,High,18585.47,1427.73,304.33,214.62,0.56,1,Drones
+Short-Range,Active,Anti-Air Missile,Helicopter,Quadcopter,High,1015.8,1366.89,481.49,101.94,0.65,1,Helicopter
+Long-Range,Hybrid,Surface-to-Air Missile,Passenger Aircraft,Quadcopter,Medium,13153.96,1057.86,420.37,151.45,0.98,1,Surface-to-Air Missile
+Long-Range,Passive,Cruise Missile,Fighter Jet,Quadcopter,Medium,12667.23,980.21,219.12,36.04,0.83,1,Cruise Missile
+Long-Range,Passive,Ballistic Missile,Drones,Quadcopter,High,16496.53,713.51,190.44,337.61,0.25,1,Ballistic Missile
+Short-Range,Hybrid,Cruise Missile,Passenger Aircraft,Fixed-Wing,High,14192.39,465.6,271.62,62.85,0.45,1,Fixed-Wing
+Short-Range,Passive,Cruise Missile,Drones,Fixed-Wing,Low,17596.26,1417.14,155.2,227.16,0.57,1,Cruise Missile
+Medium-Range,Passive,Anti-Air Missile,Bombers,Quadcopter,Low,15107.6,1093.54,140.95,100.25,0.65,0,None
+Long-Range,Passive,Surface-to-Air Missile,Passenger Aircraft,Hybrid Drone,Low,17796.79,502.89,184.13,2.49,0.98,1,Passenger Aircraft
+Short-Range,Passive,Anti-Air Missile,Helicopter,Hybrid Drone,Low,6654.4,757.66,208.88,19.04,0.32,1,Anti-Air Missile
+Short-Range,Passive,Ballistic Missile,Bombers,Hybrid Drone,Low,6810.24,603.56,470.85,25.74,0.99,1,Ballistic Missile
+Short-Range,Passive,Ballistic Missile,Bombers,Quadcopter,Low,4507.35,588.01,249.61,264.9,0.84,1,Ballistic Missile
+Short-Range,Active,Anti-Air Missile,Bombers,Hybrid Drone,Low,15396.27,1113.87,58.85,114.22,0.55,1,Anti-Air Missile
+Medium-Range,Hybrid,Anti-Air Missile,Passenger Aircraft,Fixed-Wing,Medium,3543.01,1113.69,50.17,53.54,0.78,1,Anti-Air Missile
+Medium-Range,Active,Surface-to-Air Missile,Bombers,Fixed-Wing,Low,583.71,1260.2,194.78,226.59,0.78,1,Bombers
+Long-Range,Passive,Anti-Air Missile,Fighter Jet,Fixed-Wing,Low,17644.2,482.94,131.52,117.52,0.91,1,Fighter Jet
+Long-Range,Active,Anti-Air Missile,Fighter Jet,Hybrid Drone,High,19026.02,947.16,227.0,254.62,0.03,1,Hybrid Drone
+Long-Range,Active,Cruise Missile,Fighter Jet,Fixed-Wing,Medium,13773.49,942.89,156.19,250.49,0.77,1,Fixed-Wing
+Long-Range,Hybrid,Cruise Missile,Bombers,Fixed-Wing,High,12482.89,868.16,221.39,164.86,0.96,0,None
+Short-Range,Active,Cruise Missile,Passenger Aircraft,Fixed-Wing,High,17587.59,260.47,458.61,252.14,0.74,0,None
+Short-Range,Hybrid,Surface-to-Air Missile,Fighter Jet,Hybrid Drone,High,13711.17,1256.85,496.62,29.71,0.74,1,Hybrid Drone
+Short-Range,Passive,Anti-Air Missile,Bombers,Hybrid Drone,Medium,2872.8,481.67,405.91,273.35,0.59,0,None
+Long-Range,Hybrid,Cruise Missile,Drones,Hybrid Drone,Low,2789.22,1000.54,174.81,177.1,0.56,1,Cruise Missile
+Long-Range,Hybrid,Surface-to-Air Missile,Fighter Jet,Fixed-Wing,High,2287.98,280.0,166.47,357.96,0.27,1,Fighter Jet
+Medium-Range,Active,Anti-Air Missile,Bombers,Fixed-Wing,Medium,11693.07,652.91,199.8,204.46,0.02,0,None
+Medium-Range,Active,Cruise Missile,Passenger Aircraft,Hybrid Drone,Medium,2707.72,354.5,346.82,329.27,0.17,1,Cruise Missile
+Short-Range,Hybrid,Anti-Air Missile,Drones,Hybrid Drone,High,19684.77,1325.87,474.26,90.76,0.24,1,Hybrid Drone
+Medium-Range,Active,Surface-to-Air Missile,Bombers,Quadcopter,High,19760.88,528.97,94.34,163.72,0.5,1,Quadcopter
+Short-Range,Active,Ballistic Missile,Drones,Quadcopter,Medium,2590.18,1029.2,490.2,87.62,0.49,0,None
+Medium-Range,Hybrid,Surface-to-Air Missile,Passenger Aircraft,Quadcopter,High,11658.3,224.52,408.54,152.04,0.54,1,Quadcopter
+Long-Range,Active,Anti-Air Missile,Bombers,Hybrid Drone,Medium,13856.21,391.61,160.43,178.28,0.95,1,Bombers
+Short-Range,Passive,Surface-to-Air Missile,Bombers,Fixed-Wing,Low,10651.78,1347.94,311.25,230.87,0.37,0,None
+Long-Range,Passive,Cruise Missile,Passenger Aircraft,Quadcopter,High,9718.35,1307.68,213.8,216.59,0.0,1,Cruise Missile
+Short-Range,Hybrid,Anti-Air Missile,Fighter Jet,Quadcopter,Low,15640.69,1139.08,459.29,111.96,0.31,1,Fighter Jet
+Long-Range,Active,Surface-to-Air Missile,Fighter Jet,Hybrid Drone,Medium,19330.07,955.09,245.56,144.74,0.18,1,Hybrid Drone
+Short-Range,Hybrid,Ballistic Missile,Helicopter,Hybrid Drone,High,5763.18,568.12,51.93,187.89,0.83,0,None
+Short-Range,Hybrid,Cruise Missile,Helicopter,Quadcopter,High,4246.85,638.13,145.96,262.74,0.76,1,Helicopter
+Medium-Range,Passive,Anti-Air Missile,Fighter Jet,Fixed-Wing,High,8586.71,978.94,340.06,240.18,0.56,1,Fighter Jet
+Long-Range,Hybrid,Cruise Missile,Fighter Jet,Fixed-Wing,Medium,15431.47,471.57,252.37,199.2,0.81,0,None
+Medium-Range,Active,Ballistic Missile,Helicopter,Hybrid Drone,Medium,1297.35,386.41,297.63,188.85,0.17,1,Hybrid Drone
+Short-Range,Hybrid,Cruise Missile,Bombers,Fixed-Wing,High,17537.91,321.12,202.37,98.63,0.33,0,None
+Medium-Range,Passive,Cruise Missile,Drones,Hybrid Drone,High,13854.09,745.87,219.4,43.85,0.05,1,Cruise Missile
+Medium-Range,Active,Cruise Missile,Fighter Jet,Hybrid Drone,Medium,19261.13,1482.54,95.83,3.53,0.39,0,None
+Long-Range,Hybrid,Surface-to-Air Missile,Helicopter,Hybrid Drone,Low,702.16,700.14,238.17,210.83,0.47,1,Hybrid Drone
+Long-Range,Hybrid,Ballistic Missile,Drones,Quadcopter,High,8984.01,1492.15,111.05,300.35,0.61,1,Ballistic Missile
+Long-Range,Hybrid,Anti-Air Missile,Fighter Jet,Quadcopter,Medium,12738.56,1172.6,146.13,338.53,0.27,1,Anti-Air Missile
+Medium-Range,Active,Surface-to-Air Missile,Fighter Jet,Hybrid Drone,High,6850.0,1130.86,148.38,113.89,0.26,1,Surface-to-Air Missile
+Short-Range,Hybrid,Ballistic Missile,Helicopter,Quadcopter,Low,13587.38,743.31,317.95,131.57,0.94,1,Helicopter
+Short-Range,Passive,Cruise Missile,Passenger Aircraft,Quadcopter,Low,8678.52,973.77,394.26,258.8,0.64,1,Quadcopter
+Medium-Range,Hybrid,Ballistic Missile,Helicopter,Quadcopter,High,19688.94,820.17,363.98,313.39,0.27,1,Helicopter
+Long-Range,Passive,Surface-to-Air Missile,Drones,Hybrid Drone,High,6171.2,480.72,229.98,221.92,0.78,1,Drones
+Long-Range,Active,Ballistic Missile,Bombers,Fixed-Wing,Low,6478.91,1229.76,442.29,352.56,0.69,1,Fixed-Wing
+Long-Range,Active,Anti-Air Missile,Fighter Jet,Hybrid Drone,Low,13155.01,355.95,111.97,74.35,0.32,0,None
+Short-Range,Active,Anti-Air Missile,Bombers,Fixed-Wing,Medium,19669.19,1442.65,279.25,242.88,0.07,1,Fixed-Wing
+Short-Range,Passive,Anti-Air Missile,Drones,Fixed-Wing,Low,2321.34,666.63,293.35,144.61,0.0,1,Anti-Air Missile
+Medium-Range,Passive,Cruise Missile,Passenger Aircraft,Quadcopter,Low,4256.88,317.76,64.98,24.35,0.86,0,None
+Medium-Range,Active,Surface-to-Air Missile,Bombers,Hybrid Drone,Low,4504.25,296.02,280.82,321.5,0.68,1,Surface-to-Air Missile
+Short-Range,Active,Cruise Missile,Drones,Fixed-Wing,High,19510.12,546.83,72.62,150.05,0.03,1,Drones
+Long-Range,Active,Anti-Air Missile,Bombers,Fixed-Wing,High,6321.5,675.35,91.81,37.73,0.68,1,Bombers
+Medium-Range,Active,Ballistic Missile,Fighter Jet,Fixed-Wing,High,7838.2,749.87,340.51,158.85,0.76,1,Fighter Jet
+Long-Range,Hybrid,Ballistic Missile,Passenger Aircraft,Hybrid Drone,Medium,11020.28,343.45,90.73,96.99,0.5,0,None
+Medium-Range,Hybrid,Cruise Missile,Drones,Hybrid Drone,Medium,7808.29,1369.74,419.84,296.48,0.16,1,Hybrid Drone
+Long-Range,Active,Cruise Missile,Passenger Aircraft,Quadcopter,Medium,14277.13,318.81,100.13,270.35,0.41,1,Cruise Missile
+Long-Range,Passive,Ballistic Missile,Drones,Quadcopter,High,5666.55,1355.3,440.22,95.49,0.84,1,Ballistic Missile
+Long-Range,Passive,Cruise Missile,Drones,Quadcopter,Low,7702.72,376.81,89.1,244.98,0.99,1,Quadcopter
+Short-Range,Active,Anti-Air Missile,Fighter Jet,Hybrid Drone,Medium,15470.71,524.85,250.77,357.82,0.61,1,Hybrid Drone
+Short-Range,Passive,Surface-to-Air Missile,Passenger Aircraft,Hybrid Drone,Medium,18648.88,762.96,363.63,317.39,0.25,1,Passenger Aircraft
+Medium-Range,Passive,Ballistic Missile,Fighter Jet,Fixed-Wing,Low,9173.71,466.61,182.04,82.01,0.45,1,Fixed-Wing
+Short-Range,Passive,Cruise Missile,Passenger Aircraft,Quadcopter,Low,6361.14,1415.75,483.47,200.27,0.52,1,Passenger Aircraft
+Long-Range,Active,Ballistic Missile,Fighter Jet,Fixed-Wing,Medium,6871.43,220.09,152.33,141.44,0.47,1,Fixed-Wing
+Medium-Range,Passive,Surface-to-Air Missile,Bombers,Hybrid Drone,Low,13100.83,1295.22,430.81,315.24,0.49,1,Hybrid Drone
+Short-Range,Active,Anti-Air Missile,Helicopter,Fixed-Wing,Low,10050.98,1013.19,307.33,182.34,0.9,1,Anti-Air Missile
+Medium-Range,Active,Surface-to-Air Missile,Drones,Fixed-Wing,High,5848.63,1081.36,200.45,302.64,0.24,1,Surface-to-Air Missile
+Short-Range,Active,Surface-to-Air Missile,Fighter Jet,Hybrid Drone,High,18154.97,1398.89,313.07,142.23,0.34,1,Hybrid Drone
+Long-Range,Passive,Surface-to-Air Missile,Drones,Quadcopter,Low,3970.43,450.26,147.42,246.71,0.87,1,Surface-to-Air Missile
+Medium-Range,Passive,Cruise Missile,Helicopter,Quadcopter,Low,9038.4,1271.98,301.01,355.45,0.31,1,Helicopter
+Short-Range,Passive,Ballistic Missile,Helicopter,Hybrid Drone,High,13263.52,1134.18,118.34,220.14,0.26,1,Helicopter
+Long-Range,Hybrid,Anti-Air Missile,Drones,Fixed-Wing,Low,9603.35,1093.13,121.21,117.2,0.74,1,Anti-Air Missile
+Short-Range,Passive,Cruise Missile,Bombers,Hybrid Drone,High,17857.93,1166.41,471.62,24.31,0.02,1,Cruise Missile
+Long-Range,Active,Surface-to-Air Missile,Fighter Jet,Quadcopter,High,4158.2,1267.61,167.87,121.58,0.17,1,Quadcopter
+Long-Range,Passive,Ballistic Missile,Fighter Jet,Quadcopter,Medium,3669.63,1198.19,471.44,24.57,0.89,1,Quadcopter
+Medium-Range,Passive,Surface-to-Air Missile,Bombers,Hybrid Drone,High,7359.0,1059.78,481.82,302.57,0.16,1,Surface-to-Air Missile
+Short-Range,Active,Cruise Missile,Drones,Hybrid Drone,High,3476.36,767.44,282.95,31.76,0.76,1,Hybrid Drone
+Medium-Range,Active,Surface-to-Air Missile,Helicopter,Quadcopter,High,13692.11,960.0,268.73,66.2,0.51,0,None
+Short-Range,Passive,Cruise Missile,Bombers,Hybrid Drone,High,17271.81,1419.18,466.59,180.53,0.53,1,Cruise Missile
+Short-Range,Passive,Surface-to-Air Missile,Fighter Jet,Quadcopter,Medium,4488.3,1173.75,277.61,188.65,0.11,1,Surface-to-Air Missile
+Long-Range,Passive,Ballistic Missile,Bombers,Quadcopter,Low,15551.64,675.86,139.33,279.88,0.29,0,None
+Medium-Range,Active,Cruise Missile,Passenger Aircraft,Fixed-Wing,High,14199.42,1077.46,485.88,115.58,0.79,1,Passenger Aircraft
+Short-Range,Hybrid,Cruise Missile,Passenger Aircraft,Fixed-Wing,Low,16171.85,892.63,269.19,55.57,0.5,1,Passenger Aircraft
+Medium-Range,Passive,Ballistic Missile,Passenger Aircraft,Fixed-Wing,High,2615.0,1421.56,204.33,161.47,0.64,1,Fixed-Wing
+Short-Range,Active,Ballistic Missile,Drones,Fixed-Wing,Low,8855.94,626.26,191.48,117.89,0.96,0,None
+Long-Range,Passive,Ballistic Missile,Drones,Quadcopter,Low,15273.99,936.41,339.96,209.46,0.2,0,None
+Short-Range,Hybrid,Cruise Missile,Helicopter,Hybrid Drone,Medium,13771.88,575.95,386.59,126.1,0.31,1,Helicopter
+Medium-Range,Hybrid,Anti-Air Missile,Passenger Aircraft,Hybrid Drone,High,5708.39,1204.31,204.14,53.78,0.87,1,Anti-Air Missile
+Long-Range,Active,Cruise Missile,Helicopter,Hybrid Drone,High,16069.81,514.63,470.88,9.44,0.97,1,Cruise Missile
+Medium-Range,Hybrid,Surface-to-Air Missile,Drones,Quadcopter,Low,11204.68,1194.71,417.55,313.34,0.48,1,Drones
+Medium-Range,Hybrid,Surface-to-Air Missile,Drones,Fixed-Wing,Low,12314.49,1189.45,118.74,67.37,0.25,1,Drones
+Short-Range,Active,Anti-Air Missile,Helicopter,Hybrid Drone,Medium,2678.23,851.77,212.96,102.63,0.06,1,Hybrid Drone
+Medium-Range,Passive,Anti-Air Missile,Bombers,Fixed-Wing,Medium,19359.61,707.86,120.84,306.89,0.59,1,Anti-Air Missile
+Medium-Range,Active,Anti-Air Missile,Fighter Jet,Fixed-Wing,High,11359.38,1023.56,496.09,242.12,0.98,1,Anti-Air Missile
+Short-Range,Passive,Cruise Missile,Helicopter,Hybrid Drone,Medium,12940.18,576.87,127.01,83.48,0.72,1,Cruise Missile
+Medium-Range,Passive,Cruise Missile,Passenger Aircraft,Fixed-Wing,High,13935.74,439.64,202.57,90.6,0.37,1,Cruise Missile
+Short-Range,Hybrid,Cruise Missile,Helicopter,Fixed-Wing,Medium,18711.69,942.41,109.55,336.19,0.53,1,Cruise Missile
+Long-Range,Active,Ballistic Missile,Fighter Jet,Hybrid Drone,Medium,1566.46,831.93,436.25,267.22,0.44,1,Fighter Jet
+Long-Range,Active,Surface-to-Air Missile,Drones,Fixed-Wing,Medium,11387.19,442.44,288.17,87.89,0.04,1,Fixed-Wing
+Short-Range,Active,Cruise Missile,Fighter Jet,Hybrid Drone,High,7250.78,454.42,198.38,355.61,0.17,1,Cruise Missile
+Medium-Range,Passive,Surface-to-Air Missile,Drones,Hybrid Drone,Medium,19335.9,346.02,214.96,344.02,0.75,1,Drones
+Medium-Range,Passive,Anti-Air Missile,Helicopter,Fixed-Wing,Low,1262.2,554.68,477.28,236.21,0.8,1,Helicopter
+Short-Range,Hybrid,Cruise Missile,Passenger Aircraft,Hybrid Drone,Medium,5905.06,1007.73,191.67,225.65,0.97,0,None
+Short-Range,Passive,Ballistic Missile,Passenger Aircraft,Quadcopter,Medium,14546.95,1490.48,178.81,349.09,0.72,1,Quadcopter
+Long-Range,Hybrid,Surface-to-Air Missile,Fighter Jet,Hybrid Drone,Medium,9158.22,1265.9,131.0,231.13,0.36,0,None
+Long-Range,Active,Anti-Air Missile,Passenger Aircraft,Hybrid Drone,Low,9899.3,1318.59,377.55,81.65,0.51,0,None
+Short-Range,Hybrid,Ballistic Missile,Passenger Aircraft,Fixed-Wing,High,10686.39,1330.88,168.47,344.11,0.65,1,Ballistic Missile
+Long-Range,Active,Anti-Air Missile,Fighter Jet,Quadcopter,Medium,7176.32,614.95,294.61,351.59,0.34,1,Anti-Air Missile
+Long-Range,Active,Anti-Air Missile,Helicopter,Quadcopter,Low,17796.67,213.74,443.33,109.55,0.77,1,Helicopter
+Long-Range,Hybrid,Surface-to-Air Missile,Passenger Aircraft,Hybrid Drone,Low,10659.42,708.52,427.8,111.41,0.2,1,Passenger Aircraft
+Medium-Range,Passive,Ballistic Missile,Helicopter,Quadcopter,High,5626.7,1333.54,373.84,321.16,0.27,1,Ballistic Missile
+Short-Range,Passive,Ballistic Missile,Passenger Aircraft,Quadcopter,Medium,9318.96,881.36,417.2,238.26,0.15,1,Ballistic Missile
+Short-Range,Active,Cruise Missile,Passenger Aircraft,Fixed-Wing,Low,15858.57,592.95,220.29,287.33,0.19,1,Cruise Missile
+Long-Range,Passive,Anti-Air Missile,Passenger Aircraft,Fixed-Wing,Low,2035.63,1445.78,94.51,84.58,0.16,1,Passenger Aircraft
+Short-Range,Active,Ballistic Missile,Fighter Jet,Quadcopter,Low,18723.56,811.34,461.28,125.12,1.0,1,Fighter Jet
+Long-Range,Hybrid,Anti-Air Missile,Bombers,Quadcopter,Low,4000.91,730.6,53.5,206.34,0.48,1,Quadcopter
+Short-Range,Hybrid,Ballistic Missile,Fighter Jet,Hybrid Drone,Low,3352.94,746.61,173.34,339.97,0.56,1,Fighter Jet
+Medium-Range,Active,Cruise Missile,Passenger Aircraft,Fixed-Wing,Low,9888.31,1467.42,269.15,266.99,0.27,1,Fixed-Wing
+Short-Range,Active,Ballistic Missile,Helicopter,Hybrid Drone,High,6383.81,1427.72,130.62,66.94,0.42,1,Ballistic Missile
+Medium-Range,Active,Anti-Air Missile,Bombers,Fixed-Wing,Medium,1968.78,769.86,224.19,77.96,0.19,1,Anti-Air Missile
+Long-Range,Hybrid,Anti-Air Missile,Passenger Aircraft,Fixed-Wing,Medium,13860.2,813.55,167.49,41.62,0.97,1,Passenger Aircraft
+Medium-Range,Active,Anti-Air Missile,Fighter Jet,Fixed-Wing,Low,15253.51,1466.74,257.94,218.82,0.64,1,Fighter Jet
+Medium-Range,Active,Surface-to-Air Missile,Fighter Jet,Fixed-Wing,Medium,9277.3,300.14,220.47,330.76,0.67,1,Fighter Jet
+Short-Range,Hybrid,Surface-to-Air Missile,Drones,Quadcopter,Medium,16343.36,1294.6,422.08,35.36,0.5,1,Quadcopter
+Long-Range,Hybrid,Ballistic Missile,Fighter Jet,Quadcopter,Low,4258.54,1403.57,129.87,180.21,0.85,0,None
+Short-Range,Active,Ballistic Missile,Passenger Aircraft,Fixed-Wing,High,14552.68,1302.79,419.2,347.42,0.98,1,Ballistic Missile
+Medium-Range,Passive,Ballistic Missile,Passenger Aircraft,Hybrid Drone,High,4161.98,1435.42,404.39,103.98,0.23,1,Ballistic Missile
+Medium-Range,Hybrid,Ballistic Missile,Drones,Hybrid Drone,Medium,5057.26,482.97,464.87,244.44,0.65,1,Drones
+Long-Range,Passive,Anti-Air Missile,Drones,Hybrid Drone,Medium,3188.87,1480.32,175.75,326.26,0.17,1,Hybrid Drone
+Long-Range,Hybrid,Cruise Missile,Passenger Aircraft,Quadcopter,High,7631.29,1199.88,321.19,201.03,0.25,1,Cruise Missile
+Short-Range,Hybrid,Cruise Missile,Helicopter,Hybrid Drone,Medium,2572.78,278.79,395.7,113.38,0.32,1,Hybrid Drone
+Short-Range,Active,Cruise Missile,Fighter Jet,Fixed-Wing,Medium,15755.54,381.14,69.62,72.8,0.9,1,Fighter Jet
+Short-Range,Hybrid,Anti-Air Missile,Passenger Aircraft,Fixed-Wing,Low,16486.92,1152.14,402.75,222.3,0.77,1,Fixed-Wing
+Long-Range,Passive,Anti-Air Missile,Drones,Fixed-Wing,Low,5613.79,1185.8,438.25,289.58,0.34,1,Fixed-Wing
+Medium-Range,Passive,Ballistic Missile,Passenger Aircraft,Quadcopter,High,5348.22,909.71,60.29,302.02,0.94,1,Ballistic Missile
+Long-Range,Passive,Surface-to-Air Missile,Helicopter,Quadcopter,High,14472.7,717.15,324.86,97.2,0.22,1,Helicopter
+Medium-Range,Active,Surface-to-Air Missile,Helicopter,Quadcopter,Low,12883.47,435.49,248.82,203.84,0.81,1,Quadcopter
+Medium-Range,Active,Ballistic Missile,Passenger Aircraft,Quadcopter,High,11984.84,447.19,425.01,225.28,0.9,1,Ballistic Missile
+Medium-Range,Passive,Surface-to-Air Missile,Helicopter,Fixed-Wing,High,12403.13,828.16,405.93,253.72,0.68,1,Surface-to-Air Missile
+Long-Range,Hybrid,Ballistic Missile,Helicopter,Quadcopter,Medium,6681.27,1161.45,152.02,35.08,0.46,1,Helicopter
+Long-Range,Passive,Surface-to-Air Missile,Passenger Aircraft,Fixed-Wing,Medium,8915.58,227.64,315.4,32.02,0.62,1,Passenger Aircraft
+Short-Range,Active,Ballistic Missile,Helicopter,Quadcopter,High,8859.39,907.52,325.47,301.63,0.41,1,Ballistic Missile
+Short-Range,Passive,Cruise Missile,Passenger Aircraft,Fixed-Wing,Low,4734.55,475.99,459.87,142.59,0.26,1,Fixed-Wing
+Short-Range,Passive,Surface-to-Air Missile,Helicopter,Quadcopter,Medium,6544.41,593.71,96.76,342.19,0.38,1,Surface-to-Air Missile
+Medium-Range,Passive,Anti-Air Missile,Drones,Fixed-Wing,Medium,17126.0,526.66,297.43,237.61,0.42,1,Fixed-Wing
+Long-Range,Active,Cruise Missile,Passenger Aircraft,Quadcopter,Medium,569.17,1246.23,473.78,328.07,0.78,0,None
+Long-Range,Hybrid,Cruise Missile,Fighter Jet,Hybrid Drone,Medium,2242.27,1405.71,221.64,218.94,0.66,0,None
+Long-Range,Passive,Anti-Air Missile,Fighter Jet,Hybrid Drone,Low,3588.91,1392.14,330.49,229.73,1.0,0,None
+Long-Range,Active,Cruise Missile,Passenger Aircraft,Hybrid Drone,Medium,5602.08,730.08,319.6,48.26,0.27,0,None
+Short-Range,Passive,Cruise Missile,Helicopter,Quadcopter,High,9706.01,890.2,81.65,11.16,0.94,0,None
+Long-Range,Active,Cruise Missile,Bombers,Hybrid Drone,High,4026.68,1151.72,275.59,169.2,0.7,1,Hybrid Drone
+Long-Range,Hybrid,Anti-Air Missile,Fighter Jet,Hybrid Drone,Medium,10941.1,202.13,279.06,292.91,0.31,1,Fighter Jet
+Medium-Range,Hybrid,Anti-Air Missile,Bombers,Fixed-Wing,Medium,1149.86,795.55,422.63,359.97,0.88,1,Anti-Air Missile
+Medium-Range,Passive,Anti-Air Missile,Fighter Jet,Quadcopter,Medium,11334.74,1040.14,342.01,328.39,0.55,0,None
+Short-Range,Active,Ballistic Missile,Helicopter,Quadcopter,Low,5379.98,922.86,310.96,254.97,0.13,1,Helicopter
+Long-Range,Hybrid,Cruise Missile,Helicopter,Hybrid Drone,Medium,8752.79,741.55,334.28,243.47,0.09,1,Cruise Missile
+Medium-Range,Hybrid,Ballistic Missile,Helicopter,Fixed-Wing,High,12686.96,430.22,445.11,92.47,0.88,1,Helicopter
+Medium-Range,Active,Cruise Missile,Fighter Jet,Fixed-Wing,High,17198.6,616.49,294.27,139.4,0.3,1,Cruise Missile
+Long-Range,Active,Surface-to-Air Missile,Passenger Aircraft,Fixed-Wing,High,16679.8,299.47,275.96,359.24,0.08,1,Fixed-Wing
+Medium-Range,Hybrid,Surface-to-Air Missile,Bombers,Fixed-Wing,Medium,18412.87,416.78,267.48,36.83,0.92,1,Bombers
+Medium-Range,Passive,Cruise Missile,Fighter Jet,Fixed-Wing,Medium,8539.51,1001.99,248.06,195.34,0.71,1,Cruise Missile
+Short-Range,Hybrid,Ballistic Missile,Fighter Jet,Hybrid Drone,High,14083.41,1157.76,238.85,209.22,0.24,1,Fighter Jet
+Short-Range,Active,Cruise Missile,Bombers,Quadcopter,Medium,1183.66,766.95,188.43,133.54,0.21,1,Cruise Missile
+Short-Range,Passive,Cruise Missile,Passenger Aircraft,Fixed-Wing,High,17764.25,454.88,362.63,238.83,0.29,1,Cruise Missile
+Short-Range,Hybrid,Cruise Missile,Passenger Aircraft,Fixed-Wing,Medium,10197.11,1446.61,463.39,31.24,0.83,1,Fixed-Wing
+Long-Range,Active,Ballistic Missile,Helicopter,Quadcopter,High,12092.93,516.26,65.88,16.1,0.17,1,Helicopter
+Long-Range,Passive,Ballistic Missile,Fighter Jet,Fixed-Wing,High,8020.92,385.34,411.12,345.53,0.94,0,None
+Medium-Range,Active,Cruise Missile,Helicopter,Fixed-Wing,Low,14172.87,1450.62,428.49,348.65,0.63,0,None
+Medium-Range,Hybrid,Ballistic Missile,Bombers,Fixed-Wing,High,14272.95,1487.06,127.32,242.69,0.73,1,Ballistic Missile
+Short-Range,Hybrid,Cruise Missile,Drones,Hybrid Drone,High,12781.94,1321.87,353.34,117.89,0.29,1,Hybrid Drone
+Medium-Range,Passive,Ballistic Missile,Drones,Quadcopter,Low,8900.04,1330.03,194.17,265.89,0.91,1,Ballistic Missile
+Short-Range,Hybrid,Ballistic Missile,Helicopter,Fixed-Wing,High,8956.09,1138.07,113.97,39.11,0.38,0,None
+Long-Range,Active,Anti-Air Missile,Drones,Quadcopter,High,6626.49,1158.31,139.63,19.48,0.65,0,None
+Short-Range,Hybrid,Ballistic Missile,Passenger Aircraft,Hybrid Drone,Low,8250.0,969.42,212.36,110.16,0.51,1,Passenger Aircraft
+Long-Range,Active,Surface-to-Air Missile,Bombers,Fixed-Wing,High,1395.25,294.72,99.96,321.61,0.04,1,Surface-to-Air Missile
+Medium-Range,Passive,Cruise Missile,Passenger Aircraft,Quadcopter,Medium,13997.74,908.74,128.96,71.52,0.96,1,Quadcopter
+Medium-Range,Passive,Surface-to-Air Missile,Helicopter,Quadcopter,High,16212.79,471.44,240.87,249.78,0.99,1,Surface-to-Air Missile
+Medium-Range,Hybrid,Surface-to-Air Missile,Helicopter,Fixed-Wing,Medium,9817.06,1214.81,162.45,34.78,0.35,0,None
+Short-Range,Hybrid,Ballistic Missile,Bombers,Fixed-Wing,Medium,7415.34,1154.53,456.5,88.9,0.55,1,Ballistic Missile
+Short-Range,Hybrid,Anti-Air Missile,Passenger Aircraft,Quadcopter,Low,3595.24,1378.38,458.28,34.26,0.11,0,None
+Medium-Range,Hybrid,Anti-Air Missile,Helicopter,Quadcopter,Low,3592.33,1446.46,482.08,222.67,0.61,0,None
+Short-Range,Passive,Cruise Missile,Helicopter,Fixed-Wing,Low,15511.32,1488.22,460.0,157.5,0.18,1,Fixed-Wing
+Long-Range,Hybrid,Surface-to-Air Missile,Fighter Jet,Quadcopter,Medium,3679.66,1440.0,318.91,281.09,0.53,1,Fighter Jet
+Long-Range,Passive,Ballistic Missile,Helicopter,Quadcopter,Medium,16303.64,531.73,124.27,263.94,0.09,1,Quadcopter
+Short-Range,Hybrid,Anti-Air Missile,Helicopter,Fixed-Wing,Low,14274.41,1424.33,102.49,132.44,0.79,0,None
+Long-Range,Hybrid,Ballistic Missile,Fighter Jet,Fixed-Wing,Low,9979.49,901.69,371.8,133.42,0.39,1,Ballistic Missile
+Long-Range,Hybrid,Cruise Missile,Passenger Aircraft,Quadcopter,Low,4686.68,237.98,437.09,26.39,0.11,1,Quadcopter
+Long-Range,Hybrid,Anti-Air Missile,Helicopter,Hybrid Drone,Low,18150.49,494.38,337.64,144.53,0.33,1,Hybrid Drone
+Short-Range,Passive,Anti-Air Missile,Fighter Jet,Hybrid Drone,High,2483.76,1401.07,301.78,216.21,0.23,1,Fighter Jet
+Short-Range,Hybrid,Ballistic Missile,Passenger Aircraft,Hybrid Drone,Medium,12063.03,1006.95,225.83,198.38,0.45,0,None
+Medium-Range,Hybrid,Anti-Air Missile,Helicopter,Hybrid Drone,Medium,3925.24,483.85,417.01,254.78,0.55,1,Helicopter
+Short-Range,Hybrid,Cruise Missile,Drones,Hybrid Drone,Medium,8239.41,465.7,338.6,39.86,0.14,1,Drones
+Short-Range,Hybrid,Anti-Air Missile,Bombers,Hybrid Drone,Low,11978.46,430.94,318.43,220.61,0.89,0,None
+Short-Range,Hybrid,Anti-Air Missile,Helicopter,Fixed-Wing,Low,19753.44,902.23,303.29,170.96,0.22,0,None
+Long-Range,Passive,Surface-to-Air Missile,Bombers,Hybrid Drone,Medium,6844.45,1265.1,346.87,5.06,0.06,1,Hybrid Drone
+Short-Range,Active,Cruise Missile,Helicopter,Hybrid Drone,High,14098.98,1048.13,497.26,133.8,0.65,0,None
+Long-Range,Hybrid,Surface-to-Air Missile,Bombers,Fixed-Wing,High,14854.62,936.77,189.74,254.7,0.69,0,None
+Short-Range,Hybrid,Cruise Missile,Bombers,Fixed-Wing,Low,11629.43,572.25,56.13,308.2,0.09,1,Fixed-Wing
+Medium-Range,Active,Ballistic Missile,Fighter Jet,Quadcopter,Low,4257.17,813.98,355.13,232.53,0.16,1,Quadcopter
+Short-Range,Hybrid,Cruise Missile,Drones,Fixed-Wing,Medium,11441.43,1210.44,341.44,239.44,0.43,1,Drones
+Long-Range,Hybrid,Anti-Air Missile,Bombers,Hybrid Drone,Low,16492.72,784.8,474.95,273.34,0.91,0,None
+Long-Range,Hybrid,Anti-Air Missile,Drones,Quadcopter,High,13645.52,304.55,283.52,100.28,0.04,1,Drones
+Long-Range,Passive,Anti-Air Missile,Drones,Quadcopter,High,12578.78,1098.11,103.16,316.23,0.52,1,Quadcopter
+Long-Range,Hybrid,Anti-Air Missile,Bombers,Quadcopter,Low,19194.68,1311.01,201.55,145.22,0.07,1,Bombers
+Long-Range,Passive,Ballistic Missile,Fighter Jet,Fixed-Wing,High,8192.03,1222.03,347.95,184.56,0.95,1,Fighter Jet
+Long-Range,Passive,Cruise Missile,Bombers,Fixed-Wing,High,7686.03,909.4,256.02,1.91,0.86,1,Bombers
+Short-Range,Passive,Cruise Missile,Drones,Fixed-Wing,High,16707.33,1136.79,90.32,177.48,0.73,1,Cruise Missile
+Short-Range,Active,Anti-Air Missile,Passenger Aircraft,Fixed-Wing,High,18831.16,976.19,361.16,315.76,0.67,1,Fixed-Wing
+Medium-Range,Active,Surface-to-Air Missile,Helicopter,Quadcopter,High,8126.46,1120.95,250.95,97.28,0.01,1,Surface-to-Air Missile
+Medium-Range,Passive,Ballistic Missile,Fighter Jet,Hybrid Drone,Low,4598.5,647.53,257.22,243.97,0.69,1,Ballistic Missile
+Medium-Range,Active,Ballistic Missile,Drones,Hybrid Drone,High,10843.24,1487.98,285.73,231.17,0.69,1,Hybrid Drone
+Medium-Range,Active,Anti-Air Missile,Fighter Jet,Fixed-Wing,Low,4944.13,1247.85,395.96,198.71,0.26,0,None
+Medium-Range,Hybrid,Ballistic Missile,Passenger Aircraft,Quadcopter,Medium,15469.54,644.77,452.73,48.72,0.73,1,Ballistic Missile

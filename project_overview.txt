@@ -1,0 +1,49 @@
+LEVEL 1 RADAR DETECTION:
+
+This project simulates radar signal detections, visualizes data, and applied
+machine learning techniques to clasisfy objects, cluster unknown detections, and
+detect anomalies. The goal is to demonstrate how radar systems can identify
+and analyze objects like aircraft, missiles, and drones using synthetic data
+
+Project Steps:
+1. Generate Dummy Radar data
+ - Simulate radar signals with features: [distance, speed, signal length, frequency shift, label]
+ - Store in a CSV file
+2. Visualize Radar Data:
+ - scatterplot - distance vs. speed
+ - heatmap - correlation between radar features
+ - histogram - distribution of signal strengths
+3. Train machine learning model (object classification)
+ - use random forest to predict object type(aricraft, missile, drone)
+ - train model using distance, speed, signal strength, frquency shift
+ - evaluate accuracy of predictions
+4. Cluster radar detections (unsupervised learning)
+ - use K-means clustering to group unknown radar signals into clusters
+ - identify patterns and similarities among detected objects
+5. Detect anomalies in radar data
+ - use isolation forest to detect unusual radar signals
+ - highlight detected anomalies and plot them separately
+
+
+Explanation of the code:
+1. generated 1000 random radar detections using numpy for different parameters
+2. speed-based labeling:
+ - if speed > 1000 m/s, classify as missile
+ - if speed between 200-900 m/s, classify as aircraft
+ - if speed < 200 m/s, classify as Drone
+
+Explanation of the code:
+1. data preprocessing:
+ - used LabelEncoder to convert object types(strings) into numbers
+ - splits data into training and testing
+2. training the model
+ - uses a random forest classifier
+3. model evaluation
+ - accuracy score: measures overall performance
+ - confusion matrix: visualizes correct/incorrect predictions
+ - classification report: shows precision, recall, and F1-score
+
+-------------------------------------------------------
+
+LEVEL 2 RADAR DETECTION
+
